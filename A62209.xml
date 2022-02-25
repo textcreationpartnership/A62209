@@ -1,0 +1,869 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The sauciness of a seducer rebuked, or, The pride and folly of an ignorant scribbler made manifest in some remarks upon a scurrilous libel written by Joseph Nott ... against a book of the Reverend Mr. George Tross in vindication of the Lord's Day : together with a confutation of some errors of the Quakers, in a book call'd ... Gospel-truths scripturally asserted, written by John Gannacliff and Joseph Nott.</title>
+            <author>Trosse, George, 1631-1713.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 131 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62209</idno>
+            <idno type="STC">Wing S729</idno>
+            <idno type="STC">ESTC R7884</idno>
+            <idno type="EEBO-CITATION">13241892</idno>
+            <idno type="OCLC">ocm 13241892</idno>
+            <idno type="VID">98635</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62209)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98635)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 438:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The sauciness of a seducer rebuked, or, The pride and folly of an ignorant scribbler made manifest in some remarks upon a scurrilous libel written by Joseph Nott ... against a book of the Reverend Mr. George Tross in vindication of the Lord's Day : together with a confutation of some errors of the Quakers, in a book call'd ... Gospel-truths scripturally asserted, written by John Gannacliff and Joseph Nott.</title>
+                  <author>Trosse, George, 1631-1713.</author>
+               </titleStmt>
+               <extent>[4], 27 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Salisbury ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Friends' Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Nott, Joseph, d. 1699. --  Holy Scripture-work is better than the work of the corrupt reasoning of man.</term>
+               <term>Trosse, George, 1631-1713. --  Lords Day vindicated.</term>
+               <term>Gannacliff, John. --  Gospel truths scripturally asserted.</term>
+               <term>Society of Friends --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98635:1" rendition="simple:additions"/>
+            <p>THE Saucineſs of a Seducer Rebuked OR <hi>The PRIDE and FOLLY of an Ignorant SCRIBBLER</hi> Made Manifeſt In ſome REMARKS upon a Scurrilous LIBEL written by <hi>JOSEPH NOTT</hi> a Silly Conceited <hi>Quaker</hi> of <hi>Exon</hi> againſt a BOOK of the Reverend M<hi rend="sup">r.</hi> GEORGE TROSS In VINDICATION <hi>Of the Lords-Day.</hi>
+            </p>
+            <p>TOGETHER With a Confutation of ſome Errors of the <hi>Q<g ref="char:V">Ʋ</g>AKERS,</hi> in a BOOK call'd (by an <hi>Antiphraſis) Goſpel-Truths Scripturally Aſſerted.</hi>
+            </p>
+            <p>Written by JOHN GANNACLIFF <hi>and</hi> JOSEPH NOTT.</p>
+            <q>Ne Sutor ultra Crepidam.</q>
+            <q>Profana &amp; excitanda profecto hominum improbiſſimorum Secta, cujus Religio nul<g ref="char:EOLhyphen"/>lam Religionem aeſtimare eſt. <bibl>
+                  <hi>Hor<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>beek Summa Controv. p. 39.</hi>
+               </bibl>
+            </q>
+            <q>Quakeriſm is a meer <hi>Flam</hi> of the <hi>Devil;</hi> a ſmooth <hi>Tale</hi> to Seduce the <hi>Simple</hi> from their <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>llegiance to <hi>Chriſt.</hi> 
+               <bibl>
+                  <hi>Dr.</hi> More's Myſtery of Godlineſs. <hi>p. 533.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>London</hi> Printed for <hi>J. Salusbury</hi> at the <hi>Riſing-Sun</hi> over againſt the <hi>Royal-Exchange</hi> in <hi>Cornhill.</hi> 1693.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:98635:2"/>
+            <pb facs="tcp:98635:2" rendition="simple:additions"/>
+            <head>THE PREFACE.</head>
+            <p>THE hard uſage which the Chriſtian Religion meets with on all hands at this day in <hi>England,</hi> may well fill the ſerious Profeſſors of it with ſorrowful Reſentments. Almighty God hath highly favoured us, and wonderfully appear'd for us. He hath bleſſed us with <hi>Proteſtant, Religious,</hi> and <hi>Indulgent Governours.</hi> He hath cauſed the glorious Light of the Goſpel to ſhine upon us, with the greateſt Splendor. Our Peace and Plenty are the Envy of ſome, the Wonder of all that are about us. The great <hi>Husbandman</hi> may juſtly ſay concerning <hi>England,</hi> as once He did concerning <hi>Iſrael</hi>
+               <note n="*" place="margin">
+                  <hi>Iſa.</hi> 5.4.</note> 
+               <hi>What could have been done more to my Vineyard that I have not done in it?</hi> But notwithſtanding all our Enjoyments, horrid Wicked<g ref="char:EOLhyphen"/>neſs prevails among us, and dangerous Errors grow upon us, while the looſe <hi>Debanchees,</hi> join hand in hand with daring <hi>Atheiſts,</hi> to overturn all Religion, others endeavour with both hands earneſtly to ſubvert the Foundations of <hi>Chriſtianity.</hi> How do the <hi>Idolizers of Reaſon,</hi> with great Blaſphemies and leſſer Criticiſms, aſſault the Doctrine of the Sacred Trinity, the Deity, Incarnation, and Satisfaction of our Redeemer. How reſtleſs are the <hi>Roman Emiſſaries</hi> with their forged Citations, and Thread-bare Fallacies, to lay the Authority of Scripture, and the Scepter of Chriſt at the Pope's Feet. And how h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve the eager <hi>Contentions</hi> of <hi>Proteſtants</hi> among themſelves facilitated the deſigns of theſe our Common Enemies. But beſides theſe, there is a Fanatical Sort of People, commonly cal<g ref="char:EOLhyphen"/>led <hi>Quakers,</hi> from their Trembling and Raving, when they told their Dreams, at their firſt appearance among us; being acted in the ſame manner as the Heathen Sooth Sayers of old, of whom the Poet — <hi>Non vultus, non color unus, non comptae manſere, comae, ſed pectus anhelum, &amp; rabie ſera corda tument.</hi>
+            </p>
+            <p>This Tribe ſince they felt the warmth of Toleration, ſwarm among us; and by their Noiſe and Numbers, which alone render them conſiderable, begin to moleſt us; buzzing the ignorant and unſtable continually in the Ears, with their unintelligible J<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rgon.</p>
+            <p>'Tis ſca<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce worth the while to inquire into the Original of this odd, u<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>red Sect. Whe<g ref="char:EOLhyphen"/>ther they were the Spawn of the <hi>Munſter-Reformers,</hi> a By-blow of the <hi>Jugling J<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſuits;</hi> or derive their Pedigree from the <hi>Irenopolitan Fathers:</hi> Or whethe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they be a <hi>Mung<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>el</hi> Race, who have lick'd up <hi>Socinus</hi> his Vomit, are inſpir'd with <hi>John a Leyden</hi>'s Enthu<g ref="char:EOLhyphen"/>ſiaſms, and have ſuck'd in Popiſh Perfection and Inf llibility,; let who will exami<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e.</p>
+            <p>My deſign is to beſtow a few Animadverſions on a Trifling Pamphlet I met wi h a while ago at <hi>Exon,</hi> Written againſt Mr. <hi>George Troſs,</hi> by <hi>Joſeph Nott,</hi> who is, as I am in<g ref="char:EOLhyphen"/>form'd a Worſtead-C<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mb<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r, and Holder forth among the <hi>Quakers.</hi> The known Abili<g ref="char:EOLhyphen"/>ties, profound Learning, and exemplary Piety of Reverend Mr. <hi>Troſs,</hi> ſet him far above the reach of our worſhipful Penny Author's Reproaches. I doubt not but he ſmiles at the Snarles, of this puny, curriſh Enemy. 'Tis b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>neath him to take any Notice of ſuch a ſor<g ref="char:EOLhyphen"/>ry Scribble, As to him, or any People of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enſe; a Reply to <hi>Joſeph Nott,</hi> is altogether needleſs; therefore expect not a <hi>Vindication</hi> of Mr. <hi>Troſs.</hi> What I aim at is to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<g ref="char:EOLhyphen"/>buke
+<pb facs="tcp:98635:3" rendition="simple:additions"/> 
+               <hi>Joſeph Nott,</hi> and others of the ſame Bran, who leaving their <hi>Looms</hi> and <hi>Combs,</hi> their <hi>Laſts</hi> and <hi>Awls,</hi> ſet up for Teachers of others, and blaſphemouſly Intitle the Spirit of God, to the Dreams and Whimſies of their own weak Brains:<note n="†" place="margin">Fanatici Spiritus quiquid ſomniant, volunt eſſe ſpiri<g ref="char:EOLhyphen"/>tum ſanctum. <hi>Melaneth.</hi>
+               </note> And not content to make their Meeting-Houſes ring with Ra<g ref="char:EOLhyphen"/>ving, and noiſy Nonſenſe, they preſume to load the Preſs with their Im<g ref="char:EOLhyphen"/>pertinencies. When they induſtriouſly diſperſe their virulent Pamphlets, among their giddy Proſelytes, and obtrude them upon other unwary People; when they uſe all baſe Arts to bring a Learned Goſpel-Miniſtry into contempt, and to wound the Reputation of Dead<note n="(a)" place="margin">Witneſs their Pamphlet againſt Mr. <hi>Flavel.</hi>
+               </note> as well as Living Miniſters; when their fulſome Pride, and raſh Confidence prompts them to Challenge, Cavil at, and write againſt our ſtouteſt Champions: 'tis high time to take them off, and correct their Inſolence. 'Twas hop'd that the Contempt with which their Pam<g ref="char:EOLhyphen"/>phlets againſt pious Mr. <hi>Flavel,</hi> and ingenious Mr. <hi>Hallet,</hi> were treated, would have re<g ref="char:EOLhyphen"/>claimed them from this Scribbling Humor; and that they would have been aſham'd of thei<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Folly, when they ſaw that none thought their Trifles worth the Anſwering: But ſeeing they abuſe this Indulgence, leſt they ſhould think themſelves conſiderable, and their Pamph<g ref="char:EOLhyphen"/>lets unanſwerable, 'tis ſit they ſhould ſmart for their Folly.</p>
+            <p>I ſhould be quite aſham'd of fouling my fingers about ſuch a dirty Fellow, or Comment<g ref="char:EOLhyphen"/>ing upon his Gibberiſh, were it not in hopes, that by manifeſting his Folly and Ignorance, I may cure his I<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>h of Scribbling, and prevent ſome unthinking People from throwing away their Time and Mony on ſuch worthleſs Pamphlets.</p>
+            <p>No<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e I preſume will blame the ſharpneſs of my Stile againſt him, who obſerve how rude<g ref="char:EOLhyphen"/>ly this Illiterate Mechanick treats that Grave and Aged Divine, whom he writes againſt; and how rotten and dangerous, as well as contagious, ſome of his Notions are.</p>
+            <p>'Tis ſad to obſerve how unſtable and uncatechiz'd people wander after the <hi>New lights,</hi> and <hi>walk in the pernicious ways</hi> of theſe buſy falſe Ap<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtles. Some follow them (and ſuch like Eliterate Teachers, whom they heap up to themſelves) for the Novelty of their Opini<g ref="char:EOLhyphen"/>ons, ſome are gull'd by their ſeeming honeſtly and ſimplicity, ſome are pleaſed with their affected Cant. Others give heed to their pretended Viſions and Revelations; Some who at firſt go to hear them out of Curioſity, at length ſuck in their Errors: It being juſt with God <hi>to give them up to ſtrong Deluſions, to believe Lies, who forſake the Sound and Solid Teaching of Learned, Ordained Miniſters, and give Ear to Fables:</hi> And not a few moroſe Sectaries, who place much of their Religion in finding fault with every thing in the <hi>Liturgy</hi> and <hi>Ceremonies of the Church,</hi> who can ſmell <hi>Popery</hi> in the <hi>Creed,</hi> and <hi>Idolatry</hi> in a <hi>Form</hi> of Prayer, who condemn uncovering the Head in time of Preaching, as <hi>Carnal compliance,</hi> and bodily Reverence in Prayer as <hi>Superſtition:</hi> not a few of theſe I ſay, at length fall to down right <hi>Quakeriſm.</hi> And of thoſe who fall into this Sink of Errors, few return again to the Truth, or take hold of the paths of Life.</p>
+            <p>If what I have written in this Treatiſe, be an Antidote to any againſt the Infection of this ſpreading Evil, my labour will not be loſt. That He who neither ſlumbereth nor ſleep<g ref="char:EOLhyphen"/>eth, would rouz his Wa chmen, when the Church is ſo beſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t on every ſide; That the great Sheph<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rd and Biſhop of Souls, would excite his faithful Paſtors, to a more narrow overſight of the Flock, when the old roaring Lion, and ſo many ravenous Wolves, lie in wait to deceive and deſtroy; That the weak and ignorant may be better inform'd about, and confirmed in the preſent Truths; That true <hi>Proteſtants</hi> may ceaſe to bite and devour one another, and ha<g ref="char:EOLhyphen"/>ving unfeign<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d Love to the Truth, and one another, may contend earneſtly for the Faith, which was once delivered to the Saints; is the Deſire of</p>
+            <closer>
+               <signed>
+                  <hi>One Studious to know and practice <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Doctrine according to Godlineſs.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="pamphlet">
+            <pb n="1" facs="tcp:98635:3"/>
+            <head>An Ignorant QUAKER Rebuk'd, Or; REMARKS upon <hi>JOSEPH NOTT</hi>'s Silly Pamphlet, Againſt the Reverend M<hi rend="sup">r.</hi> GEORGE TROSS.</head>
+            <p>THat I may the better deal with this huffing Champion of the Quakers, who <hi>Goliah</hi>-like bids defiance to the <hi>Proteſtant</hi> Hoſts, offers Violence to the Word of God, and caſt Fire-brands, Arrows and Death at thoſe who come near him: I ſhall <hi>Firſt,</hi> Exa<g ref="char:EOLhyphen"/>mine his ſwelling Title, and ſhew how impertinently he hath cited Scripture. <hi>Secondly,</hi> I ſhall conſider his <hi>Preface;</hi> and <hi>Thirdly,</hi> beſtow ſome Notes and Reflections upon his T<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eatiſe, that he, and his Admirers, may ſee his Vanity, in meddling with that, which is far above his Capacity.</p>
+            <div n="1" type="section">
+               <head>SECT. 1.</head>
+               <argument>
+                  <p>
+                     <hi>Joſeph Nott's</hi> Title Page conſider'd. The Title of his Pamphlet examined. His impertinence in Citing Scripture repriv'd. The Texts by him quoted explained. With a Rebuke to ſuch Igno<g ref="char:EOLhyphen"/>rant Teachers, and their giddy Hearers.</p>
+               </argument>
+               <p>THE Title which this Trifle<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> prefixes to his Pamphlet is this, <hi>Holy Scripture-work is bet<g ref="char:EOLhyphen"/>ter than the work of the corrupt Reaſoning of Fallen Man.</hi>
+               </p>
+               <p>A great Name for ſuch a little Brat. But prithee <hi>Jo.</hi> if thou wert Godfather to thy own Baby, tell me, How it came into thy Head to give it this Name? Doth it not look like a Compliance with the Men of the World, in that <hi>Babiloniſh Ceremony,</hi> called Baptiſm? Thy Book would better have reſembled its Author, if it had been ſent packing without Title or Preface. Thou mighteſt very honeſtly have left every Reade to have nam'd it, acco ding to his own <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight. Who would have thought that a Man of thy Gravity, would have trick'd up thy little Infant with Ribbons and Lace, and ſet a high Top-Knot upon its Front? How canſt thou reconcile this to the Dictates of <hi>Light within,</hi> and the Practice of the Brethren in other Caſes? Doth not this ſmell a little <hi>Popiſh</hi> and <hi>Anti-Chriſtian? Joſeph,</hi> if thou art breeding any more Pamphlets, be rul'd by me, turn 'em along without any of thoſe <hi>Carnal Ornaments,</hi> in a plain Quaking-Dreſs, that we may know whoſe they are by their Garb.</p>
+               <p>And why doſt thou call thy Book <hi>Work, Holy Work,</hi> yea, <hi>Holy Scripture Work?</hi> Muſt writing at random paſs for <hi>Work?</hi> Commend me to thoſe that Play, or ſit ſtill. Would'ſt fain have thy ſcurilous Libel <hi>Sainted?</hi> He hath an Ounce of Charity, for a Grain of Diſ<g ref="char:EOLhyphen"/>cretion, that accounts thy Writings Sacred. Unleſs it were the <hi>ſacred Hunger of Gold,</hi> which ſet thee about this Jobb of work; I do not think there is much Holineſs in the Caſe. And who knows but the <hi>hope of Braſs Farthings,</hi> when Trade was low, and Work ſcarce, refin'd, thy Wit, and a craving Maw raiſed thy Fancy, ſo that in ſpight of Nature and Education thou would'ſt become an Author. Thou art Fleſh and Blood as well as others. And who
+<pb n="2" facs="tcp:98635:4"/> knows but the Belly (that <hi>Maſter of Arts,</hi> as one<note n="*" place="margin">Magiſter Artis, In<g ref="char:EOLhyphen"/>genii<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> lar<g ref="char:EOLhyphen"/>gitor, v<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>niter Perſ.</note> calls him) might teach <hi>Joſeph Nott</hi> to hold forth, and write Replies, as well as <hi>Hireling.</hi> Daws and Parrots, to prate and ſing.</p>
+               <p>Thou wouldſt fain ſhelter thy Errors under the VVord of Truth; and therefore call'ſt thy bungling and botching <hi>Scripture-W<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rk.</hi> We ſhall ſee in a little time what fine <hi>Work</hi> thou makeſt with Scripture. Thou wouldſt make us believe, that thy Pamphlet is better than the Corrupt Reaſoning of Fall'n Man: But by the way thou goeſt to work, one would think thy Noddle were Craz'd, and thy Brains addle.</p>
+               <p>After the Title, we have four Texts of Scripture cited; which I come now to conſider. Only Reader, one word by the way. Let it not ſurprize thee to find the <hi>Quaker</hi> quoting Scripture. Don't ſuffer thy ſelf to be fool'd into a Belief, that 'tis out of Reſpect to the Ora<g ref="char:EOLhyphen"/>cles of God. No, have a little patience, till we come to the <hi>Preface,</hi> and thou wilt find that he hath a Spleen againſt all that <hi>Profeſs the Scripture to be the only Rule of Faith:</hi> And directs his Reader, not to the ſure word of Prophecy, but to <hi>the Light in his own Heart.</hi> He durſt not for his Ea s, refer himſelf to the Evidence of Scripture. Hold his Noſe to that Grind<g ref="char:EOLhyphen"/>ſtone, and you may do what you will with him, for all his prancing and ſprawling. If his dull Pate imagine, that any Text may ſerve his turn, it ſhall be welcome: But if that clear <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ght Witneſs againſt his dark and rotten Errors, then away with the <hi>Prophets and Apoſtles,</hi> and make room for <hi>Light within,</hi> to give in its Evidence. 'Tis no new thing to find Scripture miſapplied. In <hi>Mat.</hi> 4.6. you read of an <hi>old Sophiſter,</hi> that did ſo, long before the Days of <hi>Joſeph Nott,</hi> and <hi>John Gannacliff.</hi> On which St. <hi>Ambroſe,</hi> a Man of as much Light and Honeſty as either of thoſe worthy Authors (no diſparagement to 'em) hath this Note. <hi>Non ſequitur Haereticos eſſe doctos, quod multas citent Scripturas, quas &amp; Diabolus citavit, non ut doceret, ſed ut noceret: &amp; citavit truncatas praeterito ſenſu Scripturae, ut faciunt Haeretici.</hi> 'Tis no Argument that <hi>Quakers</hi> are ſound or learned, becauſe they cram their Preachments, and ſtuff their Pamphlets with Quotations. <hi>Satan</hi> had a Text in his Mouth, not to <hi>Teach,</hi> but to <hi>Tempt</hi> our Saviour. Thus may Truth be abuſed to the Patronage of Lies, and the Devil ſet the Stamp of Divine Authority, upon his Counterfeit Coin.</p>
+               <p>Having given this Caution, let us now come to the Texts themſelves. The Firſt is, <hi>Deut.</hi> 29.29. <hi>Secret things belong unto the Lord our God,</hi> &amp;c.</p>
+               <p>Why this Sc ipture is quoted, I can't imagin; If he thinks it warrants Him, and ſuch as he, to expound Scripture, let him peruſe theſe following Texts, which require <hi>Qualifications,</hi> and a <hi>Commiſſion;</hi> neither of which he can ſhew us. <hi>Rom.</hi> 10.15. 1 <hi>Tim.</hi> 3.2, 7. The Se<g ref="char:EOLhyphen"/>cond Epiſtle to <hi>Timothy,</hi> and the Epiſtle to <hi>Titus</hi> throughout. Whoever reads theſe Epiſtles with Underſtanding, will ſee abundant cauſe to admire at the preſumptuous Sin and Folly, of thoſe ignorant <hi>Intruders</hi> into that high and honourable <hi>Office</hi> of the <hi>Miniſtry,</hi> who as they are neither <hi>able,</hi> nor <hi>apt to Teach;</hi> ſo they were never <hi>call'd</hi> to it, nor <hi>ſent</hi> about it. And if it be a Sin for <hi>J. N.</hi> and ſuch as he to Preach, Can it be ſafe (Reader) for thee to Hear? How durſt thou by thy preſence harden and encourage them in their Sin? The Pride of their Hearts could not continue them Preachers. Didſt not thou and others (it may be the more for thee) maintain them Hearers? If thou be one who hopeſt to live in Heaven, take heed of countenancing and hardening <hi>Illiterate, <g ref="char:V">Ʋ</g>nordained Mechanicks,</hi> who <hi>intangle themſelves with the Affairs of this Life,</hi>
+                  <note n="†" place="margin">2 <hi>Tim.</hi> 2.4.</note> in their proud Invaſion of this Sacred Office, for which (without Repentance) they muſt howl in Hell for ever.</p>
+               <p>The ſecond Text is, 1 <hi>Cor.</hi> 1.21. <hi>For after that in the wiſdom of God, the World by Wiſdom knew not God; it pleaſed God by the fooliſhneſs of Preaching, to ſave them that believe.</hi>
+               </p>
+               <p>From hence perhaps the <hi>Quaker</hi> concludes, that <hi>Folly</hi> and <hi>Ignorance</hi> are neceſſary <hi>Qualifica<g ref="char:EOLhyphen"/>tions</hi> for the <hi>Pulpit.</hi> And I know not, but if <hi>Joſeph Nott</hi> were in <hi>Italy,</hi> where Ignorance and Vice ſeem the only Indelible Characters of the Clergy, by entring into Religious Orders, he might quickly be preferr'd to the Office of <hi>Confeſſor</hi> to ſome great Perſon, ſeeing few are better ſtor'd with thoſe Gifts, which recommend Perſons to that Imployment. For the great Men at <hi>Rome,</hi> as the Biſhop of <hi>Salisbury</hi>
+                  <note n="*" place="margin">Letter from <hi>Rome.</hi>
+                  </note> informs us, like to have to do with a poor, igno<g ref="char:EOLhyphen"/>rant Prieſt. Accordingly ſome Celebrated Perſon's <hi>Confeſſor</hi> was a great and notorious Block<g ref="char:EOLhyphen"/>head,
+<pb n="3" facs="tcp:98635:4"/> head, whom they us'd, becauſe a greater could not be found; and whenever they found one better qualified that way. if it were a Groom, or a Footman, that got into Prieſt's Orders, they ſaid, they would certainly make uſe of him. If <hi>J. N.</hi> would but go to <hi>Rome,</hi> and ſhave his Crown, this <hi>Penny Pamphlet</hi> would quickly get him Promotion. But the Apoſtle <hi>Paul,</hi> is not about to recommend <hi>real F<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lly,</hi> but to Caution the <hi>Corinthians</hi> againſt <hi>vain Phi<g ref="char:EOLhyphen"/>loſophy.</hi> To this end he tells them, that tho' the prejudic'd <hi>Jewiſh Rabbies,</hi> and conceited <hi>Grecian Sophi's,</hi> accounted the Preaching of the Croſs <hi>Fooliſhneſs,</hi> and ridicul'd the Chriſtian Teachers, for exhorting their Hearers to believe in <hi>a Crucified Saviour:</hi> (as many of <hi>Jo<g ref="char:EOLhyphen"/>ſeph Nott's</hi> Friends do at this Day) yet this was the only ſound and rational Doctrine, adapt<g ref="char:EOLhyphen"/>ed to diſplay the Wiſdom of God, and promote the Salvation of Souls. Thoſe who rejected Chriſtianity, periſhed in their Sins; whereas thoſe who <hi>believed</hi> in Chriſt, whom the Apoſtle preached, found his Preaching the higheſt Reaſon; and that thereby (the Power of God accompanying it) they were made wiſe unto Salvation. But if the Quaker's Preaching be like their Writing, 'tis <hi>Fooliſhneſs indeed;</hi> which neither this, nor any other Scriptu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, doth countenance or patronize.</p>
+               <p>The third Scripture in the Title Page is, <hi>Iſa.</hi> 30.1. <hi>Woe to the Rebellious Children, ſaith the Lord, that take counſel, but not of me; that cover with a Covering, but not of my Spirit.</hi>
+               </p>
+               <p>Theſe words are a Threatning againſt <hi>Iſrael,</hi> becauſe they would neither <hi>ask,</hi> nor take God's Counſel. They were about to ſend Embaſſadors to <hi>Egypt,</hi> to deſire Succour from <hi>Pharaoh,</hi> againſt the King of <hi>Aſſyria.</hi> They diſtruſted the Power and Goodneſs of God, and truſted in an Arm of Fleſh, thinking to cover themſelves from the approaching Storm, under the Shadow of <hi>Egypt.</hi> For refuſing to uſe thoſe Means, which the Spirit of God, by his Word and Prophets, had directed them to; and uſing unlawful Means, to rid themſelves out of Trouble; they are call'd <hi>Rebellious,</hi> and this <hi>Woe</hi> is denounced againſt them. And what is all this to Mr. <hi>Troſs,</hi> unleſs to ſhew what a <hi>woeful</hi> Caſe he ſhould be reduced unto; if <hi>J. N.</hi> and his <hi>charitable Friends,</hi> could have their will of him. If he thought to do Exe<g ref="char:EOLhyphen"/>cution upon him with a Text, he might have cited <hi>Rev.</hi> 8.13. where are three <hi>Woes</hi> in one Sentence.</p>
+               <p>The laſt Text is, <hi>Iſa.</hi> 44.24, 25. <hi>The Lord fruſtrateth the Tokens of the Lyars, and maketh Diviners mad, turneth wiſe Men backward, and maketh their Knowledge fooliſh.</hi>
+               </p>
+               <p>In theſe Words, the Lord ſets forth his Almighty Power, in fruſtrating the <hi>Predictions</hi> of the <hi>Magicians,</hi> and <hi>Aſtrologers,</hi> called <hi>Diviners,</hi> becauſe by holding Intelligence with ſome evil Spirit, they foretold Things to come; and <hi>Liars,</hi> becauſe God would make Things fall out contrary to their Prognoſtications, and ſo prove them <hi>Liars;</hi> notwithſtanding the <hi>Light,</hi> and <hi>Spirit within,</hi> by which they were guided. And when their Deſigns ſhould be thwarted, and their Reputation blaſted, Grief and Shame would drive them to <hi>Madneſs</hi> and <hi>Diſtraction.</hi> And now <hi>Reader,</hi> What canſt thou Infer leſs from this Text, than that whoever doth not jump with <hi>J. N.</hi> in every Opinion, is a <hi>Liar,</hi> a <hi>Diviner,</hi> and a <hi>Mad man.</hi>
+               </p>
+               <p>I have but one thing more to Reflect upon in the <hi>Title Page,</hi> and that is this: Tho' the Author, by ſetting his Name to his Book, hath let the World know to whom they are oblig'd, for that rich Treaſure of <hi>good Senſe, good Reaſon,</hi> and <hi>good Language,</hi> which a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e crowded into this little Volume; the <hi>Scurvy Printer</hi> hath not ſo much as told us his Name, or where he dwells; ſo that we are not like to know, who <hi>Midwiv'd</hi> this ſweet, well-favour'd <hi>Babe</hi> into the World.</p>
+            </div>
+            <div n="2" type="section">
+               <pb n="4" facs="tcp:98635:5"/>
+               <head>SECT. II.</head>
+               <argument>
+                  <p>Remarks upon <hi>Joſeph Nott</hi>'s Preface. The abuſe of Prefaces. Several Nonſenſical and Erroneous Paſſages expoſed. The light within Deſcribed. Wreſted and miſapplied Scriptures Explained. <hi>J. N</hi>'s Chief Talents ſumm'd up.</p>
+               </argument>
+               <p>THE uſe which many a Trivial Writer makes of a <hi>Preface,</hi> is to Wheedle his Reader into a Belief of ſome great Matters, with which the Treatiſe will entertain him; or to bribe his Judgment into a good Opinion of the Author's Piety, Learning, or Modeſty. How of<g ref="char:EOLhyphen"/>ten are the Thread-bare Stories of glowing Zeal againſt the Errors, and deep Commiſera<g ref="char:EOLhyphen"/>tion of the Follies and Vices of the Times; together with repeated importunities of <hi>Wiſe</hi> and <hi>good Friends,</hi> employed to ſtand as Motives, for the Publication of thoſe Pamphlets, which hardly live a Month to an end, before they are burnt as Sacrifices to a Pipe, or are doom'd to a more Ignominious Death in a Jakes.<note n="*" place="margin">S<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ros metuentia Carmina Perſ.</note> But whatever the Pretence be, com<g ref="char:EOLhyphen"/>monly Mr. <hi>Author</hi>'s good Opinion of his Compoſure, was the main Spring that ſet the Preſs a going. Thoſe whoſe Skuls are like a Houſe half Furniſhed, having but little Stuff them<g ref="char:EOLhyphen"/>ſelves, are apt to think others have leſs: Hence it is, that when they light on a Notion that is new to them, they make <hi>Archimedes</hi>'s Proclamation <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; and being big with ſome odd Crochet, have no Reſt, until the Printer hath deliver'd them of the ill-ſhapen Monſter.</p>
+               <p>Our Illuminated Author, a Man born to oblige the World by his refin'd Thoughts, and rare Pa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ts (as other Writers of great Note uſe to do) fronts his Book with a Preface; which ſerves as a <hi>Buſh</hi> to a <hi>Blind Ale-Houſe,</hi> to let the Paſſenger know what he may find within. He begins thus.</p>
+               <q>
+                  <hi>
+                     <label>Joſeph Nott.</label>
+                  </hi> Reader, by this thou mayeſt know, That I have ſeen a Book with <hi>G. T.</hi> for <hi>George Troſs</hi>'s Name to it, a Preacher among the Presbyterians in <hi>Exon;</hi> Dated <hi>1692.</hi>
+               </q>
+               <p>And Reader, <hi>By this,</hi> compar'd with the Date of <hi>J. N</hi>'s Pamphlet, <hi>thou mayeſt know,</hi> that the Author ſat brooding 5 or 6 Months before this Reply was hatch'd. For Mr. <hi>Troſs</hi>'s Book was Printed in <hi>Auguſt;</hi> whereas <hi>J. N</hi>'s Scribble did not appear before <hi>Cuckow time,</hi> this preſent Year.</p>
+               <q>
+                  <hi>
+                     <label>J. N.</label>
+                  </hi> Now this Book of <hi>G. T</hi>'s was written in Anſwer to a Book, ſet forth by <hi>Thomas Bamp<g ref="char:EOLhyphen"/>field,</hi> Counſellor at Law in <hi>Exon,</hi> by way of Enquiry; Whether the Lord Jeſus Chriſt made the World? And alſo by way of Vindication of the Obſervation of the Seventh-Day as a Sabbath. I would have the Reader obſerve, That I am not concern'd to Vindicate <hi>T. B</hi>'s Book.</q>
+               <p>Not to inſiſt upon the falſe Spelling, and Canting Phraſe of our <hi>Quaker;</hi> I ſhall comply wi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> his Requeſt, and fix on that, which he doth with ſo great Ceremony and Formality, deſire his Reader to obſerve. And what great and wonderful thing do you think 'tis? Why 'tis no more but this; That <hi>he is not concern'd to Vindicate</hi> T. B<hi>'s Book.</hi> Alas, poor <hi>T. B.</hi> You, and your Book are left to ſhift for your ſelves, for any aſſiſtance <hi>Joſeph Nott</hi> will aford you. Could you but have hook'd in this Man of mettle, for your Second, how ſoon would <hi>G. T.</hi> have quitted the field? If a Man of ſuch deep Thoughts, and profound Learning as <hi>J. N.</hi> had been profelyted to your Opinion, and would but have deign'd to write for a <hi>Saturday-Sabbath,</hi> no doubt but you might have the Satisfaction to ſee the <hi>Quakers</hi> open their <hi>Holding-f<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>th-place-door,</hi> on the <hi>Seventh-Day,</hi> and their <hi>Shop-Windows</hi> on the <hi>Firſt.</hi> And oh what Comfort might you have taken in the good Succeſs of your Book; if you had ſeen this Doctor in the <hi>Pulpit</hi> on <hi>Saturday,</hi> and in the <hi>Comb-Shop</hi> on <hi>Sunday.</hi> But tho' he hath a Mind to fall out with G. <hi>T.</hi> he hath never a word in his Budget for <hi>T. B.</hi> but leaves him to ſtand upon his own Legs if he can, and then proceeds.</p>
+               <q>
+                  <hi>
+                     <label>J. N.</label>
+                  </hi> But to the Latter I ſay, I am ſenſible that Chriſt the Subſtance is come, and the Shadows flies away.</q>
+               <p>And <hi>I am ſenſible,</hi> that this Sentence abounds with palpable Non-ſenſe. To call <hi>G. T.</hi> the <hi>latter,</hi> when he had mentioned him 3 times, in 3 Lines, before he had once nam'd <hi>T. B.</hi> and
+<pb n="5" facs="tcp:98635:5"/> not once ſince: And to join <hi>Flies,</hi> a Verb of the Singular Number, with <hi>Shadows</hi> a Nomi<g ref="char:EOLhyphen"/>native Caſe of the Plural, and yet bear us in hand, that he is <hi>ſenſible,</hi> is ſomewhat unaccount<g ref="char:EOLhyphen"/>able, in a Man of his <hi>Gifts.</hi> But I ſuppoſe his Talent lies in ſomething beſide writing good Senſe, or true <hi>Engliſh,</hi> or elſe his Noddle was a little <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y-blown, and he freakiſh when thi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Preface</hi> gave him the Slip. But to be ſerious. <hi>Joſeph,</hi> thou art like to prove a hopeful Con<g ref="char:EOLhyphen"/>futer, who canſt not diſtinguiſh <hi>former</hi> from <hi>latter.</hi> Art thou the mighty He, who didſt challenge all the Miniſters in <hi>Exon,</hi> to encounter thee? Away Trifler, away to thy Trade. Throw aſide thy Pen, and handle the Tool which thou wert bred up to. Never more write <hi>Prefaces,</hi> till thou haſt reconcil'd thy ſelf to good Senſe, and canſt ſpeak true <hi>Engliſh.</hi>
+               </p>
+               <p>But why muſt Mr. <hi>Troſs</hi> be told, <hi>That Chriſt the Sabſtan<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> is come,</hi> &amp;c. Doth he ever de<g ref="char:EOLhyphen"/>ny it? Hath He not in that Book which thou a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t Nibbling at<note n="*" place="margin">The Lords Day vindi<g ref="char:EOLhyphen"/>cated.</note> prov'd, that the Ceremonial Law was a Shadow of Chriſt? Doth he not affirm, <hi>Pag.</hi> 39. <hi>That Chriſt was the Subſtance of thoſe Figures, the Body of thoſe Shadows,</hi> in the Ceremonial Law? Hath he not prov'd from <hi>Coloſſ.</hi> 2.16, 17, That the Jewiſh <hi>Seventh-Day-Sabbath,</hi> was one of thoſe Shadows that were to vaniſh, when Chriſt the Body was come<note n="†" place="margin">
+                     <hi>Pag.</hi> 92. <hi>&amp; ſeq.</hi> 11. <hi>Prov.</hi> 26.7.</note>? Hadſt thou ſaid thy Say, to <hi>T. B.</hi> who will hug the Shadow, tho' the Subſtance be come, it had been better applied. But how odly doth a Parable ſound out of the Mouth of a Fool, or vain Jangler, <hi>who knows not what he ſays, nor whereof he affirms.</hi> Tim. 1.17.</p>
+               <q>
+                  <hi>
+                     <label>J. N.</label>
+                  </hi> But I am concern'd to return a Reply to ſeveral things in <hi>G. T</hi>'s Book; for I have peruſed it, and have ſeen the great Error of the Writer, which drew a Concern upon my Mind to write.</q>
+               <p>Concern is a great word with him; you had it once before, and now twice more in this Sentence. One would have thought he had no great <hi>Concerns</hi> of his own; and therefore did <hi>concern</hi> himſelf with Mr. <hi>Troſs;</hi> had he not told us, that it was not Curioſity, but Zeal againſt Error drew him on. But was it indeed to ſhew Mr. <hi>Troſs</hi>'s Error, that thou haſt ap<g ref="char:EOLhyphen"/>pear'd in Print; or to diſcover thy own invincible Courage? Mr. <hi>Troſs</hi> had by clear Scri<g ref="char:EOLhyphen"/>pture, and ſolid Reaſon, routed all thoſe Arguments, which Mr. <hi>T. B.</hi> had preſſed for the Service of the <hi>Jewiſh-Sabbath.</hi> Upon this, out comes <hi>J. N.</hi> ſwagers up and down, threat<g ref="char:EOLhyphen"/>ning what he would do to Mr. <hi>T.</hi> Juſt like <hi>Therſites,</hi> an ill-<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>avour'd, and ill-humour'd Fel<g ref="char:EOLhyphen"/>low, in the <hi>Grecian</hi> Army, at the Siege of <hi>Troy;</hi> who, tho he were the greateſt Coward, that ever drew Sword, yet had the Confidence to oppoſe the ſtouteſt Commanders. One day, when he <hi>concern'd himſelf to return a Reply to Achilles,</hi> that <hi>Hero</hi> knock'd him down, and kill'd him with a blow of his Fiſt. But <hi>Joſeph,</hi> ſet thy Heart at reſt: Mr. <hi>Troſs</hi> is too ge<g ref="char:EOLhyphen"/>nerous to lay Hands on ſuch a Dwarf as thou. 'Tis beneath a Man of his Learning and Re<g ref="char:EOLhyphen"/>putation, to obſerve, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r reply to thy pitiful Cavils. Thou mayeſt ſit pluming thy ſelf, crow<g ref="char:EOLhyphen"/>ing, and clapping thy Wings, for Joy of thy imaginary Victory long enough, ere he will give thee any diſturbance.</p>
+               <q>
+                  <hi>
+                     <label>J. N.</label>
+                  </hi> For I do admire, that ever a Man profeſſing Chriſtianity, ſhould appear in Print, in ſuch manifeſt Oppoſition to the holy Scripture; and yet of that Number that profeſs the Scripture to be the only Rule of Faith, <hi>&amp;c.</hi> But in this we may ſee the great Confuſion of <hi>Babel</hi>'s Builders.</q>
+               <p>None but ſuch as <hi>Joſeph Nott,</hi> who have read Mr. <hi>Troſs</hi>'s Book, would have been put into ſuch a fit of wondering, or would thus impudently charge him with <hi>Oppoſition,</hi> yea manifeſt <hi>Oppoſition</hi> to Scripture. None but a <hi>Popiſh Tool</hi> would reproach a Man for profeſſing the Scri<g ref="char:EOLhyphen"/>pture to be the Rule of Faith and Life. But no wonder that ſhallow Heads admire what they do not underſtand. No wonder that <hi>Crafty Papiſts</hi> imploy ſilly <hi>Quakers</hi> to do their work, by vilifying the ſacred Writings. No wonder that the <hi>underling Quaker</hi> is many times but the <hi>Puppet</hi> in the <hi>Show,</hi> that ſerves to make a little Sport, when the ſubtle <hi>Jeſuite</hi> ſtands be<g ref="char:EOLhyphen"/>hind the Curtain, and manages the Wires. No wonder that a black Mouth'd Fellow, that is drunk with the Fumes of Pride and Self-conceit, ſhould foam at the Mouth, and revile an
+<pb n="6" facs="tcp:98635:6" rendition="simple:additions"/> Embaſſdor of Chriſt, as a <hi>Babel-Builder.</hi> No wonder that the Devil will rather play at ſmall Game, than fit out; and when he can't have Men of Learning, imploys Blackſmiths, Shoe<g ref="char:EOLhyphen"/>makers, and Weavers, to broach Errors, and ſow Seditions.</p>
+               <q>
+                  <hi>
+                     <label>J. N.</label>
+                  </hi> I deſire the <hi>(1)</hi> Reader to conſider what thou reads <hi>(2)</hi> And if any one publiſh any Doctrine contrary to the Holy Scriptures, believe them <hi>(3)</hi> not.</q>
+               <p>More Non-ſenſe. (1) <hi>The</hi> for <hi>Thee.</hi> (2.) <hi>Reads</hi> for <hi>Readeſt.</hi> (3.) <hi>Them</hi> for <hi>Him.</hi> To School, Truant, learn thy Primmer, and Con the Eight Parts of Speech, before thou write any more <hi>Replies.</hi> Thy want of Learning makes thee <hi>bold,</hi> there is no danger that too much of it ſhould make thee <hi>mad.</hi>
+               </p>
+               <q>
+                  <hi>
+                     <label>J. N.</label>
+                  </hi> For Chriſt bids us beware of falſe Prophets, which come in Sheeps Cloathing; who ſaith, Ye ſhall know them by their Fruits. <hi>Mat. 7.15, 16.</hi> And the Apoſtle <hi>Paul</hi> adviſeth us to turn away from ſuch as have a f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rm of Godlineſs, but denies <hi>(a.)</hi> the Power, <hi>2 Tim. 3.5.</hi> For in<g ref="char:EOLhyphen"/>deed another Foundation can no man lay, than that which is laid, which is Jeſus Chriſt. <hi>1 Cor. 3.11.</hi>
+               </q>
+               <p>Rare ſenſe again <hi>(a) denies</hi> for <hi>deny.</hi> Scarce a <hi>Period</hi> without falſe Concord. But that is a ſmall Matter, compar'd with the Gall and Venom in theſe words. <hi>Joſeph Nott,</hi> and his <hi>Friends,</hi> are utter Enemies to Carnal Weapons; as Swords, and Guns, and other Dead-do<g ref="char:EOLhyphen"/>ing Tools; But no Animals have ſharper Tusks, or longer Claws; and none more ready to faſten their Rabid Teeth, in their Neighbour's good Name. Backbiting doth not hinder 'em from attaining perfection; but with their She-friend. <hi>Prov.</hi> 30.20. <hi>they wipe their mouth, and ſay, I have done no wickedneſs.</hi> Juſt now this bold Calumniator rank'd Mr. <hi>Troſs</hi> among <hi>Babel's-builders:</hi> Now (to let us ſee how he improves his Talent of Railing) he baſely per<g ref="char:EOLhyphen"/>verts Scripture, to inſinuate that he is <hi>a falſe Prophet, and a Hypocrite.</hi> Yet this he who pre<g ref="char:EOLhyphen"/>tends to be guided by the Spirit of God. But <hi>Reader,</hi> What Spirit is it thinkeſt thou? that moves this foul Mouth'd Fellow, thus to reproach and beſpatter ſuch a Miniſter of the Goſ<g ref="char:EOLhyphen"/>pel, as Mr. <hi>Troſs?</hi> A man, whoſe exemplary Piety, Humility, and Self-denial, diffuſive Charity and Moderation, and unwearied diligence in his Maſter's Work; by Studying, Preaching, and Viſiting, have procur'd him a good Report of all ſober, and ſerious Chriſtians, of all Perſwaſions, in the City where he lives. Had not <hi>Joſeph Nott</hi> been Maſter of a bold Face, and a hard Forehead, and had not his Converſation with Boat-Men, and Oyſter-Women, Coblers, and Tinke<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, improv'd his natural Confidence, to a great ſtock of Impudence, he would never have attempted to fix the odious Brands of <hi>falſe Prophet</hi> and <hi>Hypocrite,</hi> upon ſo good a Man, ſo faithful a Miniſter; who lays out his Time, his Strength, his Eſtate, his All, for the Glory of God, and good of Souls. I am perſuaded few Perſons in <hi>Exon,</hi> even of the <hi>Quakers</hi> themſelves, are ſo far forſaken of their Underſtandings, as to believe this Charge, upon a Brain-ſick Enthuſiaſt's ſay-ſo: If any ſhould, we may well conclude, that they are <hi>given up to ſtrong Deluſions to believe Lies;</hi> as a Judgment for <hi>rejecting ſound Doctrine, and giving heed to old Wives Fables</hi>
+                  <note n="(a)" place="margin">1 <hi>Tim.</hi> 4.7.</note> 
+                  <hi>or prophane, and vain Babling.</hi>
+                  <note n="(b)" place="margin">2 <hi>Tim.</hi> 2.16.</note>.</p>
+               <q>
+                  <hi>
+                     <label>J. N.</label>
+                  </hi> And therefore, I deſire the <hi>(1)</hi> Reader to keep thy Mind near to the Light of Jeſus Chriſt, in thy own Heart and Conſcience; that ſo thou mayeſt underſtand what thou readeſt.</q>
+               <p>After a ſmall Blunder <hi>the</hi> (1) for <hi>thee,</hi> out comes the rare <hi>Catholicon,</hi> with which theſe <hi>Quacks</hi> do greater wonders, than ever did <hi>Puntaeus,</hi> with his Balſam, or Ointment; and that is the <hi>Light within. Reader,</hi> if thou canſt but get <hi>Joſeph Nott,</hi> to ſpare thee a few Ounces of this choice Medicine, call'd <hi>Light within;</hi> prize it above <hi>Aurum potabile,</hi> or the <hi>Philoſopher's Stone.</hi> But if he will not part with any of it, follow my Directions, and thou mayeſt obtain it thy ſelf.</p>
+               <pb n="7" facs="tcp:98635:6" rendition="simple:additions"/>
+               <p>Strip thy ſelf of Lace, Ribbons, and all other <hi>Babyloniſh</hi> Garments; bid adieu to good Manners, <hi>Thee,</hi> and <hi>Thou</hi> thy Betters, give a ſupercilious Nod; but don't ſtir thy Hat from its <hi>Block,</hi> ſhake Hands with good Senſe, forſwear true <hi>Engliſh,</hi> decry Scripture, revile Ma<g ref="char:EOLhyphen"/>giſtrates, reproach Miniſters, caſt off Ordinances, gratify the Deſires of thy Carnal Heart, follow the Dictates of thy muddy Brains; whenever thy giddy Head turns round, pretend to Viſions and Revelations: and when thou art thus accounted, read the <hi>Quaker</hi>'s Books, and keep cloſe to their <hi>ſilent Meetings,</hi> and thou art in a very fair way to get this rare Secret. And if thou haſt a Wind-Mill Head, a Brazen-Face, and <hi>Leathern Lungs, get upon the Stage,</hi> which the Brethren have erected for <hi>John Gannacliſt,</hi> and <hi>Joſeph Nott,</hi> and thou mayeſt quickly get as much Cuſtom, and do as fine Feats as they.</p>
+               <p>If I have not hit upon our Author's Meaning, when he talks of the <hi>Light in the Heart and Conſcience,</hi> deſire him to explain himſelf, and tell plainly what he means by it. And that this <hi>Hocus-Pocus,</hi> may not gull thee by his <hi>Leger-demain,</hi> or ſob thee off with ſuch a <hi>Banbury-Tale,</hi> as he did Mr. <hi>Hallet,</hi> in Anſwer to his firſt <hi>Query</hi>
+                  <note n="(a)" place="margin">Goſpel-Truths Scriptural<g ref="char:EOLhyphen"/>ly aſſerted, <hi>Pag. 4.</hi>
+                  </note> where his Deſcription of this <hi>Light</hi> leaves us in the <hi>dark;</hi> get him, if thou canſt, without Quibbling or Canting, to return a plain, and direct Anſwer to theſe few Queſtions.</p>
+               <p>
+                  <hi>Q.</hi> 1. Is this <hi>Light of Jeſus Chriſt in the Heart and Conſcience;</hi> God or Creature, Finite or Infinite?</p>
+               <p>
+                  <hi>Q.</hi> 2. Is it Chriſt himſelf who was Crucified without the Walls of <hi>Jeruſalem,</hi> or ſomething diſtinct from Chriſt? If he ſay 'tis Chriſt himſelf, inquire of him; Whether this Light in every Man's Heart and Conſcience, was born of the Virgin <hi>Mary,</hi> ſuffered under <hi>Pontius Pilate,</hi> died upon the Croſs, aſcended into Heaven, after its Reſurrection, and ſitteth at the right Hand of God? All theſe things we know are true of Chriſt.</p>
+               <p>
+                  <hi>Q.</hi> 3. If he ſay it is ſomething diſtinct from Chriſt, Ask him; Whether it be a Body, or a Spirit? If he ſay it is a Body; as <hi>Bar<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lay Apol. Pag.</hi> 94. 'Tis <hi>vehiculum Dei, The Spi<g ref="char:EOLhyphen"/>ritual Body of Chriſt, the Fleſh and Blood of Chriſt, which came down from Heaven.</hi> Deſire him to deal freely with thee as a Friend, and inform thee, How this Fleſh and Blood can be in ſo many 1000 Hearts and Conſciences at once, as there are Men and Women upon the face of the Earth? How a Body can reach from <hi>Penſylvania</hi> to <hi>Exon?</hi> Whether it be Omnipre<g ref="char:EOLhyphen"/>ſent? Whether the <hi>Quaking-Prieſt</hi> have learnt of their Elder Brethren the <hi>Papiſts,</hi> the knack of <hi>Tranſubſtantiation?</hi> How a Body, tho' purer than Spirit of VVine rectified, could come by Knowledge and Underſtanding: And how it can communicate it to a Spirit?</p>
+               <p>
+                  <hi>Queſt.</hi> 4. If he ſay 'tis a Spirit, know of him whether it be a created and finite, or an Uncreated and Infinite Spirit? If it be a created Spirit, inquire of what Species, whether a good Angel, a malicious Devil, or a rational Soul? If he ſay, 'tis neither of theſe, but a ſuperiour ſort of Spirit. Ask him when it was created? How he came to know the time? And what Scripture he can bring to prove that there is any other Spirit than God, Angels, Devils and rational Souls, except it be the <hi>Spirit of a Beaſt</hi>
+                  <note n="*" place="margin">Eccl. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.21.</note> that he means.</p>
+               <p>If it be not a Creature, as <hi>Geo. Whitehead</hi> ſaith, <hi>Chriſtian Quaker, Part</hi> 2. <hi>p.</hi> 28. Deſire him to reconcile <hi>Barclay,</hi> who ſays 'tis a creature, yea a <hi>Body,</hi> with <hi>Whitehead,</hi> who ſays 'tis no creature.</p>
+               <p>Put home theſe Queſtions to him, and if he doth not boggle and equivocate, 'tis ten to one but he will betray groſs Ignorance, or utter downright Blaſphemy.</p>
+               <q>
+                  <hi>
+                     <label>J. N.</label>
+                  </hi> For the great Myſtery which hath been hid from Ages and from Generations is Chriſt within the hope of Glory, <hi>Col. 1.26, 27.</hi>
+               </q>
+               <p>In theſe Verſes (which <hi>Joſeph Nott</hi> for reaſons beſt known to himſelf, hath alter'd and cur<g ref="char:EOLhyphen"/>tail'd, putting <hi>Chriſt within,</hi> inſtead of <hi>Chriſt in you,</hi> or <hi>among you,</hi> as 'tis in the Margin, and leaving out a great part of them the Apoſtle informs the <hi>Coloſſians,</hi> that the Goſpel which was a Myſtery lock'd up in Gods own Breaſt from Eternity, and hid from a great part of the World in former Ages and Generations, being wrap'd up in dark Prophecies, and co<g ref="char:EOLhyphen"/>ver'd
+<pb n="8" facs="tcp:98635:7" rendition="simple:additions"/> under a Vail of Legal Ceremonies, was now by Chriſt and his Apoſtles made manifeſt to the Saints. The Wall of Partition was broken down, the Vail taken away, and the <hi>Coloſ<g ref="char:EOLhyphen"/>ſians,</hi> who were in times paſt Idolatrous Gentiles, <hi>alienated from God, and enemies to God, v.</hi> 21. had this Goſpel, which diſplays the Riches of Divine Grace, made known to them. The next clauſe <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, being as St. <hi>Peter</hi> ſaith of ſome things in St. <hi>Paul</hi>'s Epiſtles<note n="†" place="margin">2 Pet. 3.16.</note> 
+                  <hi>hard to be underſtood,</hi> this Prefacer being <hi>unlearned and unſta<g ref="char:EOLhyphen"/>ble hath wreſted it, as he doth alſo other Scriptures</hi> to uphold his Error. Being Ignorant of the Original, he thinks <hi>which</hi> refers to <hi>Myſtery,</hi> whereas <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> being of the <hi>Maſculine Gender</hi> hath <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> and not <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> for his <hi>Antecedent.</hi> So <hi>Zanchy Qui</hi> (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) <hi>eſt Chriſtus.</hi> And <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> is not <hi>will in</hi> but either <hi>inter vos, among you,</hi> as 'tis in the Margin, or <hi>in vobis, in you.</hi>
+               </p>
+               <p>If we follow the Ma<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ginal Reading, this is the meaning, Chriſt preached among you is the Riches of the glorious Myſtery of Godlineſs. Chriſt is the Sum and Subſtance, the Pearl and Treaſure of the Goſpel.</p>
+               <p>If we read <hi>Chriſt in you,</hi> then this is the ſenſe: Thoſe Saving Graces, Faith, Love, <hi>&amp;c.</hi> by which Chriſt dwells in your hearts, <hi>Eph.</hi> 3.17. are the Evidences of your Title <hi>to,</hi> and the grounds of your Hope <hi>of</hi> Eternal Glory. Your hopes of Glory are founded not only upon what you have heard of the riches of Divine Grace thro' Chriſt, in the Goſpel, but upon what Chriſt hath wrought in your hearts by the Goſpel. 'Tis the Image of Chriſt, the Graces of Chriſt which he hath wrought in you, by his Word and Spirit, that confirm your hopes of Heaven. What Chriſt hath done and ſuffer'd for you, and what he hath wrought in you; His ſatisfaction for you, and your union with him, cauſe you to hope. Thus Chriſt was <hi>in theſe Colosſians,</hi> thus <hi>he is in every true Believer.</hi> But what is this to the <hi>Quakers light of Chriſt in every mans Heart and Conſcience?</hi>
+               </p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="excerpt">
+                           <p>
+                              <hi>J. N.</hi> Therefore to the Spirit of God in thine own heart, I do recommend thee, as unto that which will give a true diſcerning, and right underſtanding of the things of God, as it is heark<g ref="char:EOLhyphen"/>ened unto, and obeyed.</p>
+                           <closer>
+                              <signed>J. N.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>But I adviſe thee, <hi>Joſeph,</hi> and as many of thy Friends as ſhall read theſe Lines, to <hi>Search the Scriptures,</hi> and not to <hi>Truſt your own hearts,</hi> untill you have examin'd them by the Light of God's Word. <hi>Lean n<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t to your own <g ref="char:V">Ʋ</g>nderſtandings,</hi> Beware leaſt the <hi>Light within be dark<g ref="char:EOLhyphen"/>neſs. Believe not every Spirit, nor every falſe Prophet,</hi> who pretends to the Spirit of God. For there are unclean, lying, ſeducing Spirits, Spirits of Devils. <hi>To the Law, and to the Teſti<g ref="char:EOLhyphen"/>mony. Take heed to that ſure Word of Prophecy as unto a Light that ſhineth in a dark place.</hi> That Word <hi>if hearkened unto and obeyed,</hi> will diſcover to you what the Spirit is, which you are under the conduct and influence of. Try the <hi>Spirit in your own hearts</hi> hereby. If it ſhun this Light, if it ſpeak not according to <hi>this Rule,</hi> 'tis becauſe 'tis <hi>a black Spirit,</hi> and there <hi>is no Light in it.</hi> Many grieve and quench the Holy Spirit, and provoke him to withdraw, and then an evil Spirit enters into them, blinds their eyes, hardens their hearts, and ſcars their Conſciences; and when ſuch ſet up for Teachers of others, <hi>The Blind lead the Blind, and ſo both fall into the Ditch.</hi>
+               </p>
+               <p>Thus I have at length wrought my way through the Preface. And by theſe Notes upon the Obſcure places of it, he that can ſee beyond the top of his Noſe, may diſcern what are the chief Accompliſhments of this Doughty Champion of the <hi>Quakers</hi> in the <hi>Weſt, viz.</hi>
+               </p>
+               <p>
+                  <hi>Groſs Ignorance</hi> not only of the ſenſe of Holy Scripture, and its Original Languages, but even plain <hi>Engliſh,</hi> the only Tongue he hath a ſmatterring in.</p>
+               <p>
+                  <hi>Intolerable Pride</hi> in troubling the World with his Non-ſenſe and Impertinence.</p>
+               <p>
+                  <hi>
+                     <gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>id <g ref="char:V">Ʋ</g>ncharitableneſs</hi> in railing at, reviling and miſrepreſenting a Reverend Divine, who gave him no provocation. And to name but one more; (for by theſe we may take a ſcant<g ref="char:EOLhyphen"/>ling of his other good qualities.)</p>
+               <pb n="9" facs="tcp:98635:7" rendition="simple:additions"/>
+               <p>
+                  <hi>Abominable Profaneneſs</hi> in vilifying, maiming, and wreſting Scripture.</p>
+               <p>Some People blame Mr. <hi>Hallet</hi> becauſe he did not expoſe the Ignorance and Error of this <hi>Joſeph Nott</hi> and <hi>John Gannacliff</hi> (another of the Gang) in a Pamphlet of theirs, written in Anſwer to his 27 Queries. Perhaps he thought it needleſs, ſeeing that Book is ſo horribly ſcurrilous and ſilly, that it carries its confutation in its Forehead. Or elſe he concluded it would be loſt labour, ſeeing that <hi>Tho' thou ſhouldeſt bray a Fool in a Mortar among Wheat with a Peſtel, yet will not his Fooliſhneſs depart from him, Prov.</hi> 27.22.</p>
+               <p>And were it not for that the Party are Cock-a-Hoop upon their new Authors, and vaunt themſelves of their <hi>Jannes</hi> and <hi>Jambres,</hi> as Men of ſuch Courage that none durſt enter the Liſts againſt them, I ſhould not have commented upon their nauſeous, idle Stuff. I know 'tis no credit to have to do with ſuch Fellows. And all the return I expect from that ſort of Cattle, is roaring and bellowing, throwing dirt, and calling all the odious Names, which the <hi>Spirit</hi> who <hi>acts</hi> them, ſhall put into their Mouths.</p>
+            </div>
+            <div n="3" type="section">
+               <head>SECT. III.</head>
+               <argument>
+                  <p>
+                     <hi>Joſeph Nott's</hi> Scurvy Commendation of Holy Scripture. He and <hi>John Gannacliff</hi> elſewhere pre<g ref="char:EOLhyphen"/>fer the Light within before it. The Scriptures prov'd to be the only ſupream and ſufficient Rule. The danger of ſetting the Light within every Man above God's Written Word. <hi>J. N's.</hi> firſt Ca<g ref="char:EOLhyphen"/>vil againſt Mr. <hi>Troſs.</hi> The World created long before the Son of God became Man, or was actu<g ref="char:EOLhyphen"/>ally Jeſus Chriſt. Scriptures wreſted, <hi>&amp;c.</hi>
+                  </p>
+               </argument>
+               <p>THE Wiſe Man ſaith, <hi>Prov.</hi> 3.30. <hi>Strive not with a man without cauſe, if he have done thee no harm,</hi> and <hi>Prov.</hi> 25.8. <hi>Go not forth haſtily to ſtrive, leſt thou know not what to do in the end thereof, when thy Neighbour hath put thee to ſhame.</hi> Had <hi>Joſeph Nott</hi> learnt this Leſ<g ref="char:EOLhyphen"/>ſon, and held his peace, he had better conſulted his Credit, and his Quiet. But ſome Peo<g ref="char:EOLhyphen"/>ple will be meddling, tho' to their coſt. 'Tis like ſome <hi>Spirit mov'd</hi> him, but as to its Re<g ref="char:EOLhyphen"/>gion, Quality and Complexion, <hi>albus an ater,</hi> 'tis left to the Reader's conjecture. When a furious Storm is rais'd on a ſudden, the <hi>Prince of the Power of the Air,</hi> is thought to be going a Proceſſion. When a Fire breaks out no body knows how, and threatens to conſume whatever ſtands in its way, we condemn ſome unſeen <hi>Boutefeu.</hi> To ſee a man that had no provocation, act like a fury, ranting and raving, quarrelling and contending, with thoſe who had nothing to do with him, makes all ſober People conclude that he hath ſome <hi>inviſible Driver.</hi>
+               </p>
+               <p>But beſides the External Mover, it ſeems his very Complexion led him on. Choler no doubt is his predominant Humor, and he is as one ſaid of a Gooſe, <hi>Animal pugnaciſſimum.</hi> Hence it was that he ſent abroad his Challenges in <hi>Goſpel Truths Scripturally aſſerted, p.</hi> 6. <hi>lin.</hi> 6. and in <hi>p.</hi> 23. Where is a Challenge to Mr. <hi>Hallet</hi> and all the <hi>Presbyterian Preachers</hi> in the World to Anſwer <hi>Joſeph Nott</hi> and <hi>John Gannacliff.</hi> And becauſe neither Mr. <hi>Hallet</hi> nor any body elſe accepted that Challenge, he hath a mind to pick a quarrel with Mr. <hi>Troſs.</hi> So have I ſeen a little contentious Cur, breath forth <hi>Threats</hi> and <hi>Challenges</hi> againſt a generous Racer, until a diſdainful kick hath cool'd his Courage, and ſent him back howling. But before he thinks fit to threaten, he fawns and flatters, for thus he begins.</p>
+               <q>
+                  <hi>
+                     <label>J. N.</label>
+                  </hi> We generally profeſs that we do believe, that the Holy Scriptures were written for our Learn<g ref="char:EOLhyphen"/>ing: that is <hi>Epiſcalian, (1) Presbyterian, Independent, (2) Anabaptiſt</hi> and <hi>Quakers, &amp;c.</hi> And that we ought to prove our Doctrine and Principles by them: And we alſo do ſay, That if any Man do hold, or endeavour to prove any Doctrine or Principle that is contrary to the Holy Scripture, that we ought not to believe them <hi>(3)</hi> altho they never ſo Orthodoxly ſo called, or ſubt<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> endeavours to prove their Aſſertion, <hi>(4.)</hi>
+               </q>
+               <pb n="10" facs="tcp:98635:8" rendition="simple:additions"/>
+               <p>Paſſing by the falſe ſpelling in the words mark'd, (1) and (2) the falſe Concord in (3) <hi>them</hi> for <hi>him,</hi> and the Non-ſenſe in the two laſt Clauſes; we may obſerve how rudely our Paltry Author intrudes into the company of thoſe who never ſent for him. He crowds himſelf and his Brethren the <hi>Quakers</hi> in among <hi>Proteſtants,</hi> tho' I am perſuaded they will no more own this Upſtart Sect than <hi>Joſeph Nott</hi> owns the Scriptures to be the <hi>only Rule of Faith and Life.</hi> Yet to curry favour with them, he pretends to commend the Word of God, but does it after ſuch a ſcurvy rate, as doth ſufficiently diſcover his kindneſs to it. Tho' he Sacrifices it to his ador'd Light within, yet he fawns upon it, juſt as the Crocodile that weeps over his Prey, his Tears being a ſort of formal Grace before his intended Feaſt. The mean<g ref="char:EOLhyphen"/>ing of his words ſeems to be this. <hi>We</hi> Quakers, &amp;c. <hi>i. e.</hi> Ranters, Seekers, Familiſts, Ada<g ref="char:EOLhyphen"/>mites, Muggletonians. <hi>and the like, do generally</hi> (not univerſally) <hi>profeſs to believe</hi> (not with<g ref="char:EOLhyphen"/>out a reſerve) <hi>that the Scriptures are written for our Learning, as was</hi> Cambden's Britannia, <hi>and</hi>
+                  <note n="†" place="margin">
+                     <hi>Nick<g ref="char:EOLhyphen"/>ram'd by</hi> J.N. <hi>Verſt<g ref="char:EOLhyphen"/>gan.</hi> pag. 8. line 21.</note> Verſtegan's Antiquities. <hi>And that we ought to prove our Doctrine and Principles by them,</hi> ſtretch<g ref="char:EOLhyphen"/>ing and wreſting them if they will not otherwiſe ſerve our turn: <hi>And we alſo do ſay that we ought not to believe any Doctrine or Principle contrary to the Scriptures,</hi> as expounded by our in<g ref="char:EOLhyphen"/>fallible Light, by the help of which we make a <hi>Lesbian</hi> Rule, or <hi>Noſe</hi> of <hi>Wax</hi> of them, and bring them to ſpeak what we would have them. That this is the meaning of this inſipid Ad<g ref="char:EOLhyphen"/>vocate for the Holy Scriptures is plain, not only from what I have formerly Remark'd in the <hi>Preface,</hi> where he ſcoffs at thoſe who profeſs the Scripture to be <hi>the only Rule of Faith,</hi> &amp;c. and would fain ſend his Reader to the <hi>Light within</hi> for Direction; but much more from his Book againſt Mr. <hi>Joſeph Hallet,</hi> where he ſpeaks his mind more freely and tells us plainly in Anſwer to Mr. <hi>Hallet's</hi> 3d <hi>Query,</hi> That He and <hi>John Gannacliff</hi> eſteem the <hi>Light within</hi> as a Rule to <hi>be preferred to and higher than the Scriptures,</hi> p. 5. lin. 20. and that by it <hi>Thoughts, words and actions are to be tried,</hi> and by it <hi>we come to underſtand thoſe things which are written in the Holy Scriptures of Truth, and therefore it is a higher and ſuperiour Rule, unto which we ought more eſpecially to attend,</hi> p. 7.</p>
+               <p>Now wellfare <hi>Joſeph Nott</hi> and <hi>John Gannacliff,</hi> for their plain dealing, in telling us their minds frankly and freely, as to this matter. What ever fine ſtories <hi>J. N.</hi> tells us here, to inſinuate his Errors and the minds of the ignorant; you ſee his very heart in the fore-men<g ref="char:EOLhyphen"/>tioned Quotations. The <hi>Light within</hi> is that great <hi>Diana,</hi> by whom theſe <hi>Jacks of all Trades</hi> have their Wealth. Hence 'tis that theſe <hi>Craftsmen</hi> ſpeak ſo honourably of the Idol. <hi>Great is the</hi> Quakers <hi>Light within, 'tis to be preferred to the Scriptures, by this we are to try thoughts, words and actions, by this we are to underſtand the Scriptures. This is a higher and ſuperiour Rule to which we ought eſpecially to attend.</hi>
+               </p>
+               <p>This is one of the Foundations on which the <hi>Damnable Errors</hi> of the <hi>Quakers</hi> are built. In oppoſition to theſe rotten aſſertions, I lay down this as an undoubted Truth.</p>
+               <p>
+                  <q rend="margQuotes">The whole Council of God concerning all things neceſſary to be believed and done by us in order to our Salvation is either expreſly ſet down in Holy Scripture, or may by good and neceſſary conſequence be deduced from it; unto which nothing at any time is to be added, whether by new Revelations of the Spirit, or Traditions of Men.</q>
+               </p>
+               <p>Or in ſhort thus: <hi>The Scriptures are the only, ſupreme, and ſufficient Rule of Faith and Life.</hi>
+               </p>
+               <p>A Rule is a Meaſure by which the Quantity or Quality of another thing is ſufficiently try'd and examined. Sometimes the word <hi>Rule</hi> is apply'd to ſenſible and corporeal things. Thus. <hi>e. g. John Gannacliff</hi>'s <hi>Laſte,</hi> on which he makes his <hi>Shoes,</hi> is his <hi>Rule</hi> that he works by. Thus the <hi>Taylor,</hi> the <hi>Brick-layer,</hi> the <hi>Carpenter</hi> and other Artificers have their Rules, which they apply to their Work, to meaſure and judge of the length, heighth and depth, ſtraitneſs or crookedneſs thereof. This is a <hi>Proper Rule.</hi> Sometimes the word <hi>Rule</hi> is apply'd to moral and ſpiritual things, to meaſure and determine the Qualities, Virtues and Perfections thereof. This is a <hi>Metaphorical Rule,</hi> ſo called from the Analogy and Reſemblance it hath in its uſe and
+<pb n="11" facs="tcp:98635:8" rendition="simple:additions"/> end, to a material Rule. 'Tis in this ſenſe we call the <hi>Written Word</hi> a Rule of Faith and Lif<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. For as a <hi>Maſon</hi> in raiſing a Wall, a <hi>Joiner</hi> in ſquaring a Piece of Timber, by applying the <hi>Le<g ref="char:EOLunhyphen"/>vel</hi> to the Building, the <hi>Square</hi> to the Timber, come to judge of the uprightneſs, ſtraitneſs, and exactneſs of their Work: So a <hi>Chriſtian</hi> tries and examines his thoughts, words and actions by the Holy Scriptures. The Sacred Writings are his <hi>Square,</hi> his <hi>Line</hi> and <hi>Level,</hi> by which he meaſures and judges of Opinions and Practices. Hereby he comes to know what is right and what is wrong, what is duty and what is ſin, what is truth and what is errour. All Doctrines which are to be believed, all Duties which are to be performed, in order to our ac<g ref="char:EOLhyphen"/>ceptable ſerving of God on Earth, or eternal enjoying of God in Heaven, are to be meaſured by, and conformed unto this Rule.</p>
+               <p>There are Three <hi>Rules</hi> which are eagerly contended for:</p>
+               <p n="1">1. The <hi>Pagans</hi> Rule, <hi>The Light of Nature.</hi> This Rule is good in its kind and place, it diſ<g ref="char:EOLhyphen"/>covers the Being, Power, Wiſdom and Goodneſs of God, ſo as to leave them without ex<g ref="char:EOLhyphen"/>cuſe who do not walk according to it<note n="(a)" place="margin">
+                     <hi>Rom.</hi> 2.14.15. &amp; 1.19, 20, 21, 32.</note> But it cannot diſcover Chriſt, by whom alone Sinners may be ſaved<note n="(b)" place="margin">1 <hi>Cor.</hi> 1.21. &amp; 2.13.14.</note>
+               </p>
+               <p n="2">2. The <hi>Papiſts</hi> Rule, <hi>
+                     <g ref="char:V">Ʋ</g>nwritten Traditions.</hi> This is a Corrupt, Fallible and Falſe Rule. Contradictory to the Scriptures, and therefore no good Rule.</p>
+               <p n="3">3. The <hi>Quakers</hi> Rule, the <hi>Light within,</hi> which <hi>J. N.</hi> blaſphemouſly calls <hi>Chriſt within,</hi> and the <hi>Spirit of God in the Heart.</hi> This is a very bad Rule to try or determine matters of Faith or Practice by. God hath taught us in his Written Word, <hi>to try the Spirits</hi> by the Scripture. The <hi>Quakers</hi> teach their <hi>Proſelytes,</hi> to try the Scriptures by the <hi>Light within,</hi>
+                  <note n="(c)" place="margin">1 <hi>Joh.</hi> 4.1, 6.</note> which they alſo call the Spirit. Whatever Spirit leads any againſt, or beſides the Rule of Scripture, is not the Spirit of God, but a lying Spirit. God ſaith, and <hi>Proteſtants</hi> hold, that thoſe who <hi>Speak not according to the Word have no Light in them, Iſa.</hi> 8.20. Their pretended Light who contradict Scripture is Darkneſs, <hi>Matth.</hi> 6.23. But <hi>Quakers</hi> impudently prefer their Dreams above the Written Word, and ſo declare that their Light proceeds from the <hi>Father of Lies. That Spirit who transformeth himſelf into an Angel of Light, the God of this World, whoſe King<g ref="char:EOLhyphen"/>dom is full of Darkneſs, blinds the Eyes</hi> of theſe Men of Light, ſo that they ſpeak againſt the pure Light of Scripture, and prefer their <hi>Ignes Fatui</hi> before it. And while they <hi>profeſs them<g ref="char:EOLhyphen"/>ſelves to be wiſe, they become Fools. For lo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> they have rejected the Word of the Lord, and what Wiſdom is in them?</hi> Jer. 8.9.</p>
+               <p>Seeing therefore that the <hi>Pagans</hi> Rule, <hi>Natural Reaſon</hi> and Conſcience is inſufficient, ſeeing the <hi>Popiſh</hi> and <hi>Quaking</hi> Rules are falſe, and uncertain, it remains that the Holy Scriptures are the <hi>only Supreme, Sufficient, Perfect, Standing Rule,</hi> to try and judge all Opinions and Practi<g ref="char:EOLhyphen"/>ces by. For the Proof of this, conſult theſe following Texts. 2 <hi>Tim.</hi> 3.15, 16, 17. In this Scripture we are inform'd, that the <hi>Holy Scriptures believed and obey'd, are able to make wiſe unto Salvation. That all Scripture is given by Inſpiration of God, and is profitable for Doctrine, for Reproof,</hi> &amp;c. <hi>That the Man of God may be perfect, throughly furniſhed unto all good works.</hi> What plainer Proof can we deſire to evince that the Scripture doth contain all Doctrines ne<g ref="char:EOLhyphen"/>ceſſary to be believed, and command all Duties neceſſary to be performed in order to Sal<g ref="char:EOLhyphen"/>vation. And if ſo, 'tis a ſufficient, compleat and perfect Rule of Faith, Worſhip and Life. Hence 'tis that we are commanded to <hi>Search the Scriptures, John</hi> 5.39. <hi>To hear Moſes and the Prophets,</hi> Luke 16.29. <hi>To take heed to this ſure Word of Prophecy,</hi> 2 Pet. 1.19. To go <hi>to the Law and to the Teſtimony,</hi> Iſa. 8.19. Hence 'tis we are told, <hi>The Law of the Lord is perfect,</hi> Pſalm 19.7. 'Tis for this cauſe the <hi>Bereans</hi> are commended for <hi>Searching the Scriptures daily,</hi> Acts 17.11. Believers are ſaid to be <hi>built upon the Foundations of the Prophets and Apo<g ref="char:EOLhyphen"/>ſtles,</hi> Eph. 2.20. <hi>Ignorance of the Scriptures</hi> is the cauſe of <hi>Errour, Matth.</hi> 22.29.</p>
+               <p>Many more Places might be cited, but theſe are ſufficient to any, but a <hi>Papiſt</hi> or a <hi>Quaker,</hi> to prove that the Scriptures are the <hi>Supreme</hi> and <hi>only ſufficient Rule of Faith and Life,</hi> which God hath given us. They are a <hi>ſure</hi> and <hi>ſtanding Rule</hi> a <hi>compleat</hi> and <hi>Perfect</hi> Rule, adequate and commenſurate to the things to be regulated or meaſured thereby. From which no<g ref="char:EOLhyphen"/>thing can be taken away, to which nothing can be added, but upon the Peril of all the
+<pb n="12" facs="tcp:98635:9" rendition="simple:additions"/> Plagues and Curſes in the Book of God, <hi>Rev.</hi> 22.18, 19. Thus a Rule is deſcribed by <hi>Pha<g ref="char:EOLhyphen"/>vorinus, 'Tis an infallible meaſure which admits of no addition or diminution</hi>
+                  <note n="*" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note>. So that if the Scriptures were not a Perfect Rule to meaſure and try all Opinions and Practices by, they were no Rule at all. The wrangling <hi>Quakers</hi> think to evade the force of all theſe Texts, by telling us, <hi>Goſpel Truths,</hi> &amp;c. p. 6. line 31. <hi>That Jeſus Chriſt is the only Rule of Faith, Wor<g ref="char:EOLhyphen"/>ſhip and Manners.</hi> And <hi>l.</hi> 38. they bid us, <hi>Turn in our Minds unto the gift of Gods Spirit in our Hearts.</hi> And <hi>p.</hi> 7. <hi>l.</hi> 20. <hi>It is the Holy Ghoſt that teaches People good manners, (Quaere,</hi> What Spirit teaches the <hi>Quakers</hi> who want them?) <hi>And by the Light within Thoughts, Words and Actions are tryed. And this Light of Jeſus is a higher and ſuperiour Rule.</hi>
+               </p>
+               <p>Rare, edifying Diſcourſe. Chriſt is the only Rule. The gift of God's Spirit in our own Hearts is the Rule. The Holy Ghoſt is the Rule. The Light within is the Rule, And the Light of Jeſus is the Rule. And all theſe are one and the ſame Rule, which is in every Man. There is no difference (if you believe theſe acute and ſubtle Doctors) between Chriſt, and the Spirit, and the Light within. Chriſt and the Spirit are one, and are in every mans heart; and yet they pretend to own the Doctrine of the <hi>Trinity,</hi> and tho' they ſay that Chriſt, and the Spirit of Chriſt, are in every Man, and 'tis moſt evident that Chriſt is God and Man, yet contrary to their avowed Principle, they break poor <hi>Priſcian</hi>'s Head, and ſay <hi>thou</hi> inſtead of <hi>you,</hi> to every man, who hath Chriſt and the Spirit in him.</p>
+               <p>I grant that Chriſt hath given us a Rule, and the Holy Spirit enables all the People of God to walk according to it; but the Scripture or the Written Word is the Rule, according to which we are to walk, that ſo Peace and Mercy may be upon us. The Spirit is ſo far from being our Rule, that God hath given us the Written Word to try whether we have the Spirit thereby. And if any Spirit would perſwade us to receive any Doctrine, or do any Action, contrary to the Written Word, we ought to abominate ſuch a Spirit.</p>
+               <p>Beſides the Confuſion, there is palpable Non-ſenſe in theſe Expreſſions, <hi>Chriſt is the Rule, The Spirit is the Rule.</hi> A Perſon may preſcribe a Rule to another, but cannot be a Rule him<g ref="char:EOLhyphen"/>ſelf, any more than <hi>John Gannacliff</hi> is a <hi>Laſte,</hi> or the <hi>French</hi> King an <hi>Edict.</hi>
+               </p>
+               <p>Yet further we have only the <hi>Quakers</hi> word, for all that they affirm concerning Chriſts be<g ref="char:EOLhyphen"/>ing the Rule; and nothing that looks like Proof. For thoſe Scriptures which they have cited to this purpoſe, will as well prove the <hi>Pope</hi> to be <hi>Chriſt's Vicar,</hi> as Chriſt or the Spirit, or Light within, to be our Rule. Therefore inſtead of following them any further in their im<g ref="char:EOLhyphen"/>pertinent citing and miſapplying Scripture, to exalt their Light within, into the Throne of Chriſt, and place of Holy Scripture: I ſhall hint the <hi>Danger</hi> of this Opinion, That the <hi>Light within every Man</hi> is the ſupreme Rule of Faith, Worſhip and Manners.</p>
+               <p n="1">1. In this Opinion the <hi>Quakers</hi> join hands with the <hi>Papiſts,</hi> and do their Work. By de<g ref="char:EOLhyphen"/>nying the Perfection of Scripture, they go about to take off People from the uſe of it. They ſay the Light which is in all the <hi>Indians</hi> and <hi>Pagans</hi> is ſufficient without the Scriptures. No wonder then that they ſpeak ſo ſlightly of Scripture as ſometimes they do.</p>
+               <p n="2">2. They take the ready way to lull aſleep their own Conſciences, when they alone ſhall be iudges of their own actions. This Doctrine leaves every man to himſelf, to believe and do what he pleaſes, for he has no Rule to try his <hi>Spirit</hi> by, 1 <hi>John</hi> 4.1. He is a Law to him<g ref="char:EOLhyphen"/>ſelf. How doth this gratifie the Pride of mens Hearts, when they think that they may do whatever they liſt? And how is it poſſible to convince ſuch men of their ſin and folly, who think themſelves infallibly guided by the Spirit of Chriſt, which, as they ſay, is the high<g ref="char:EOLhyphen"/>eſt Rule, ſuperiour to the <hi>Letter?</hi> (as theſe Scoffers call the Written Word.) The <hi>Papiſts</hi> make the <hi>Man at Rome</hi> the Infallible Judge, but every <hi>Quaker</hi> is a <hi>Pope</hi> in his own Conceit.</p>
+               <p n="3">3. According to this Opinion People are bound to receive the moſt abſurd Notions, that any <hi>Quaker</hi> ſhall dictate. Yea, they are bound to believe contradictions. For the Light in one <hi>Quaker</hi> ſaith, that the <hi>Light within</hi> is <hi>God,</hi> but in another, that 'tis <hi>a Body,</hi> as I have for<g ref="char:EOLhyphen"/>merly prov'd. Now ſuppoſe any <hi>Inlightned Siſter</hi> at <hi>Exon,</hi> ſhould come with a <hi>Span-new-Light,</hi> and tell the <hi>Quakers</hi> that 'tis neither one nor 'tother; they ought according to their own Principles to believe her; for 'tis <hi>Chriſt,</hi> 'tis the <hi>Holy Spirit</hi> that ſpeaks by her, for
+<pb n="13" facs="tcp:98635:9" rendition="simple:additions"/> ought that ever they can prove to the contrary, if they do not abandon this Opinion.</p>
+               <p n="4">4. This Doctrine gives up thoſe who embrace it into the immediate hands of the Devil, to receive his ſuggeſtions as inſpirations; and to take his impulſes for the Commands of Chriſt, and motions of the Holy Spirit.</p>
+               <p>But to return from th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Digreſſion, leaving the <hi>Quakers</hi> with their <hi>Leaden Rule,</hi> and <hi>Dark Lanthorn Light,</hi> Let us obſerve the Motions of our Author. He thus proceeds:
+<q>
+                     <hi>
+                        <label>J. N.</label>
+                     </hi> Now ſuch a one as the <hi>Latter</hi> is <hi>G. T.</hi>
+                  </q>
+               </p>
+               <p>Prithee <hi>Joſeph,</hi> adorn thy Snout with that Inſtrument, which the Men of the World call a pair of Spectacles, and ken this ſame Paſſage a little. Tell me if thou canſt with all thy Light, whom the word <hi>Latter</hi> does refer to? Is <hi>G. T.</hi> a <hi>Quaker,</hi> or is he a <hi>ſubtle endea<g ref="char:EOLhyphen"/>vour?</hi> or what is he? where were thy Wits when this dark Expreſſion dropt from thy Pen? In thy <hi>Preface</hi> thou couldſt not diſtinguiſh <hi>latter</hi> from <hi>former:</hi> Here thou talkeſt of a <hi>latter,</hi> where 'tis hard to find any <hi>f rmer</hi> at all. <hi>Joſeph,</hi> is this the way thou takeſt to confute Mr. <hi>Troſs?</hi> Get thee gone. Brawl with a Tinker, or ſquabble with a Porter, but write no more <hi>Replies.</hi> Thou telleſt Reverend Mr. <hi>Hallet</hi>
+                  <note n="(a)" place="margin">
+                     <hi>Goſpel Truths,</hi> &amp;c. page 12.</note> That working with his Hands was <hi>a thing he was never brought up unto.</hi> And thy Pamphlet gives us to underſtand, that thou wert never <hi>brought up to writing of Books.</hi> If thou haſt not ſome better way to get a Maintenance, than by Printing Penny-Books, I doubt thou wilt have but a cold Kitchen, or wilt be forc'd to be chargeable to thy ſound Brethren. This Huckſtering Trade of Retailing out thy Pamphlets, at a Penny apiece will never hold long. And perhaps thou mayſt be called to account for making a <hi>Merchandiſe of the Word,</hi> and <hi>ſeeking thy gain from thy Quarter.</hi>
+                  <note n="(b)" place="margin">Ibid.</note>
+               </p>
+               <q>
+                  <hi>
+                     <label>J. N.</label>
+                  </hi> For he greatly endeavours to prove, <hi>That Jeſus Chriſt was not in the beginning; and that the World was not made by him,</hi> which is contrary to the holy Scripture; and he alſo endeavours to prove <hi>the firſt Day of the Week to be the Chriſtian-Sabbath;</hi> the which, he hath no Scripture to prove, as he himſelf doth acknowledge.</q>
+               <p>Here are the two Articles, upon which Mr. <hi>Troſs</hi>'s Book ſtands indicted at the <hi>Quaker</hi>'s Bar. 1. That he endeavours to prove that Jeſus Chriſt was not in the beginning, <hi>&amp;c.</hi> 2. That the firſt Day of the Week is the Chriſtian Sabbath. 'Tis great pity Mr. <hi>Troſs</hi> had not ask'd <hi>J. N</hi>'s leave, before he preſum'd to publiſh ſuch a Book; in which are contained one Poſiti<g ref="char:EOLhyphen"/>on contrary to Scripture, and another, which he hath no Scripture for; if you will take <hi>J. N</hi>'s honeſt word for it. And who dares queſtion the Truth of what a Man of Infallibity ſaith?</p>
+               <q>
+                  <hi>
+                     <label>J. N.</label>
+                  </hi> I ſhall ſet down ſome of his words in his Book; Firſt, Concerning Chriſt Jeſus, in <hi>p. 4.</hi> He ſaith, <hi>We ſay, that it may be Orthodoxly denied and aſſerted; That Jeſus Chriſt did not make the World. For the World was 4000 years before ever Jeſus Chriſt was. And in</hi> Pag. <hi>5.</hi> he ſaith; <hi>In the Old Teſtament Chriſt is propheſied of to come; How could He then create the VVorld?</hi> And in Pag. <hi>12 he ſaith; VVe have ſufficiently anſwer'd, that it was not the Lord Chriſt that created the VVorld.</hi> And in Pag. <hi>10.</hi> he ſpeaking of <note n="(a)" place="margin">To help the halting Quak. over the Stile, underſtand <hi>the time.</hi>
+                  </note> before the Fall of Man, ſaith; <hi>In which time there could not be ſo much as any need or uſe of a Jeſus, or a Chriſt; nor was there ſo much as the leaſt hint of him given by either Prophecy or Promiſe.</hi> And then he ſaith, <hi>Much leſs was he himſelf in Being.</hi> And in Pag. <hi>1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>0.</hi> he ſaith; <hi>I think I have ſhewn that the Lord Chriſt did not make the VVorld.</hi>
+               </q>
+               <p>See here how dextrouſly this new Confuter goes to work, to prove that Mr. <hi>Troſs</hi> holds, that Jeſus Chriſt as Mediator or God-Man did not make the World, but that it was made 4000 Years before the Incarnation of God the Son. How induſtrious hath he been, to skim
+<pb n="14" facs="tcp:98635:10" rendition="simple:additions"/> the Book from <hi>P.</hi> 4. to <hi>P.</hi> 130. that he may make it clear that Mr. <hi>Troſs</hi> doth affirm, that Jeſus Chriſt was not in the beginning. But hear how bravely <hi>J. N.</hi> confutes him.</p>
+               <q>
+                  <hi>
+                     <label>J. N.</label>
+                  </hi> Now here all that can ſee with a ſingle Eye may ſee the darkneſs and blindneſs of this man; yea, the groſs darkneſs that may be felt; yea, the blindneſs, the born blindneſs. Oh Erroneous Doctrine! Who will believe or receive ſuch Doctrine as is ſo contrary to the Holy Scriptures of Truth.</q>
+               <p>
+                  <hi>Quis tulerit Gracchos— Reader,</hi> doth it not move thy Gall, or Spleen rather, to hear a poor <hi>Ignorant Quaker</hi> thus Tragically exclaiming againſt a learned, acute Divine, as tho' he were about to Sap the very Foundations of Chriſtianity?</p>
+               <p>But ſtay <hi>Joſeph,</hi> peace Man, why art ſo ſtartled? Wert thou well awake, and <hi>compos men<g ref="char:EOLhyphen"/>tis,</hi> or juſt rouz'd out of ſome frightful Viſion, when thou mad'ſt that hideous Out-cry? Thou yauleſt like the Geeſe, thoſe <hi>Roman Quakers,</hi> as tho' the Enemy were at the Gates of the Capitol. What is it that makes thee thus take on, and rave about Erroneous Doctrine, Darkneſs, groſs Darkneſs, Blindneſs, born-Blindneſs? (a fine expreſſion of thi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e own In<g ref="char:EOLhyphen"/>vention.) I doubt thou underſtandeſt but little of what thou readeſt. Mr. <hi>Troſs</hi> having to do with Mr. <hi>T. B.</hi> conſiders his Queſtion, <hi>Whether the World was made by Jeſus Chriſt?</hi> To which he anſwers <q rend="margQuotes">That in one ſenſe it may be affirmed, in another ſenſe it may be denied. He affirms that the God-head of Chriſt created the World, but denies that Chriſt conſiſt<g ref="char:EOLhyphen"/>ing of that God-head, and the Humanity hypoſtatically united, created it, <hi>P.</hi> 7. The God-head or Divine Nature of Chriſt he grants was throughout a beginningleſs Eternity, <hi>P.</hi> 6. and made Heaven and Earth. But Jeſus Chriſt as God and Man (in contra-diſtin<g ref="char:EOLhyphen"/>ction to the Father and the Holy Ghoſt) did not make the World; for Mr. <hi>Troſs</hi> proves that the Name Jeſus Chriſt do neceſſarily imply or include the Humane Nature with the Divine. He ſhews that the Divine Nature formally and abſtractly conſidered cannot be Chriſt, <hi>i. e.</hi> anointed, fitted or qualified by any other for the Office of Mediation; nor could the Divine Nature alone be our Jeſus or Saviour; for the God-head can neither obey the Law, nor bear the Curſe, both which were to be done by our Jeſus. Theſe ap<g ref="char:EOLhyphen"/>pertain only to his Humanity, tho' his Divinity gives merit to his Active and Paſſive Obe<g ref="char:EOLhyphen"/>dience. He was not actually Jeſus till after his Incarnation, till he had actually done and ſuffered all thoſe things for which all his Church are redeemed and ſaved.</q>
+               </p>
+               <p>Therefore tho' God the Son was in the beginning, and created the World; yet ſeeing he was not actually and formally Jeſus Chriſt until after the Incarnation; which Incarnation of the Second Perſon in the Glorious Trinity, was not till about four thouſand years after the Creation of the World, 'tis evident, that as Jeſus Chriſt he could not create it, tho' as God he did. 'Tis a great miſtake to argue, that whatever God is or did, that Jeſus Chriſt is and did.</p>
+               <p>I grant that by reaſon of the near union between the Divine and Humane Nature, in the perſon of our Mediatour, the ſpecial Qualities of both Natures are ſometimes aſcribed to the Perſon of Chriſt; yea that which is proper to one Nature, is ſometimes attributed to the Perſon, denominated from the other Nature. Hence the Scripture ſpeaks of the <hi>Blood of God, Acts</hi> 20.38. Where the Word <hi>God</hi> is to be underſtood not <hi>eſſentially</hi> for the Divine Nature. but <hi>Perſonally.</hi> The Lord Jeſus, who is truly God, ſhed his Bloud, which belongs to him as Man. So the Lord of Glory was Crucify'd, 1 <hi>Cor.</hi> 2.8. Chriſt on Earth ſaid of himſelf, <hi>The Son of Man which is in Heaven, John</hi> 3.13. But tho' the Properties of both Natures may be aſcrib'd to the Perſon, yet the Properties of one Nature, are not communicated <hi>unto,</hi> nor can they without Nonſenſe, yea Blaſphemy, be predicated <hi>of</hi> the other Nature. We may ſay God ſuffered, but 'tis Blaſphemy to ſay the Godehead ſuffer'd. The Man Chriſt Jeſus is Me<g ref="char:EOLhyphen"/>diator, by him all things were made, but the Humane Nature did not, could not make all things, for it was a creature, and ſo was made it ſelf. Let <hi>Joſeph Nott</hi> read and conſider what Mr. <hi>Troſs</hi> hath ſaid on this Argument, in 4, 5, 6, 7. of his Book, and if he doth but un<g ref="char:EOLhyphen"/>derſtand
+<pb n="15" facs="tcp:98635:10" rendition="simple:additions"/> what he reads, I ſuppoſe he will as much admire his own Dullneſs, as he did before exclaim againſt Mr. <hi>Troſs</hi>'s Blindneſs. If he hath any thing more to ſay againſt Mr. <hi>Troſs,</hi> as to this matter, let him prove, That the World was not made, until the Son of God aſſum'd the Humane Nature. That the World was made but 1693 years before the year of the Date of theſe P<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſents. That all our Chronologers, who ſay that the World is near 6000 years old, are Ignorant and Blind; for <hi>J. N.</hi> hath diſcover'd, by the help of his <hi>Light within,</hi> that the World is not full ſeventeen hundred years old. If he can make this out, I ſhall conclude that a pair of <hi>Quaking-Spectacles,</hi> are worth a dozen Teleſcopes. Mr. <hi>Troſs</hi> often affirms, that God the Son is <hi>Jehovah,</hi> and created the World. That the God-head of our Redeeme: raiſed the glorious Fabrick of Heaven and Earth. But all the Scriptures alledg'd by Mr. <hi>T.B.</hi> would not convince him that the World was made ſince <hi>the Word was made fleſh, and dwelt among us, John</hi> 1.14. <hi>Jehovah</hi> made the World almoſt 4000 years before the time that God was manifeſt in the fleſh. Now the Names of Jeſus Chriſt do not belong to God the Creator, but to the only Mediator between God and Man, who is <hi>Emmanuel, God with us.</hi> So that the <hi>Quaker</hi> had as good have wip'd up his Mouth, and kept a Silent Meeting, as have gap'd ſo wide, and ſaid nothing to the purpoſe.</p>
+               <q>
+                  <hi>
+                     <label>J. N.</label>
+                  </hi> Now that this is contrary to the Holy Scriptures is eaſily prov'd: And by the aſſiſtance of the Holy Spirit of God, I ſhall undertake to prove that Jeſus Chriſt was in the beginning, and that the World was made by him.</q>
+               <p>Ay, ay, <hi>Joſeph,</hi> No doubt this is eaſie to ſuch a bold <hi>
+                     <g ref="char:V">Ʋ</g>ndertaker</hi> as thy mighty Self. On<g ref="char:EOLhyphen"/>ly mind Mr. <hi>Troſs</hi>'s Diſtinction. Remember that he grants, that God the Son made the World; that the Godhead of Jeſus Chriſt was in the beginning, and created all things. What he denies, and thou art to prove is, That this glorious Perſon did not make the World until he became Man, until the time of his Incarnation, when he was actually and formally <hi>Jeſus Chriſt.</hi>
+               </p>
+               <q>
+                  <hi>
+                     <label>J. N.</label>
+                  </hi> For Chriſt Jeſus ſaid to the Jews, <hi>Before</hi> Abraham <hi>was, I am,</hi> John <hi>5.28.</hi>
+               </q>
+               <p>Very true. And doth not Mr. <hi>Troſs</hi> grant as much? Doth he not ſay that Chriſt as God, or the Godhead of Jeſus Chriſt was <hi>throughout a beginningleſs Eternity?</hi> But doſt thou think that Chriſt here ſpake concerning his Humane Nature? I tell thee <hi>Joſeph,</hi> that Perſon who is <hi>God over all bleſſed for ever, as concerning the fleſh</hi>
+                  <note n="(a)" place="margin">
+                     <hi>Rom.</hi> 9.5.</note> is a <hi>Jew</hi> of the Seed of <hi>Abraham.</hi> He who us God is <hi>David</hi>'s Lord, as Man is <hi>David</hi>'s Son. He who is without beginning of days, as God, was born of a Virgin in time, as Man. Thou art a Youngſter at Diſputing, and writing Controverſies, elſe thou wouldeſt have ſeen, that it lay upon thee to prove, That the Humane Nature was Perſonally united to the Son of God, before the Birth of <hi>Abra<g ref="char:EOLhyphen"/>ham,</hi> yea before the Creation of <hi>Adam.</hi>
+               </p>
+               <q>
+                  <hi>
+                     <label>J. N.</label>
+                  </hi> And the Apoſtle <hi>Paul,</hi> ſpeaking of the <hi>Jews</hi> ſaid, <hi>They drank of that Spiritual Rock that follow'd them, and that Rock was Chriſt, 1</hi> Cor. <hi>10.4.</hi>
+               </q>
+               <p>Theſe <hi>Quakers</hi> are perilous ſhrewd Text-men. If <hi>J. N.</hi> can prove from theſe words, that Chriſt as God-Man made the World, I make no Queſtion but he will ſhortly prove from it Tranſubſtantiation, and all the Opinions in <hi>Hobbs</hi> his <hi>Leviathan.</hi>
+               </p>
+               <p>No Texts of Scripture meet with worſe uſage than thoſe whoſe hard hap it is to fall into the hands of thoſe ignorant Scribblers. Some they bring into their Pamphlets as Mummers in a Mask, who make a fair Shew, but ſpeak not one word to the matter in hand. Others they ſerve as the Souldiers did our Bleſſed Lord, firſt blind them by their falſe Gloſſes, and then Buffet them. Others they put into the Inquiſition, where they wreſt and torture them to make them confeſs what they know not.</p>
+               <pb n="16" facs="tcp:98635:11" rendition="simple:additions"/>
+               <p>That you may ſee how put this Scripture is to the purpoſe for which 'tis quoted, give me leave a little to amplifie <hi>J. N</hi>'s Argument from it. You may ſuppoſe him to reaſon after this rate:</p>
+               <p>
+                  <q rend="margQuotes">Now here from this Text the Friends that have the Light within, may perceive the blind<g ref="char:EOLhyphen"/>neſs and darkneſs of <hi>G. T.</hi> He ſaith that Chriſt Jeſus as God-Man was not in the beginning. Oh erroneous Doctrine! Do you not ſee the confuſion of theſe <hi>Babel-Builders?</hi> Did ever Prieſt talk after this abſurd rate? But you ſhall ſee Friends, (if you be not ſtark-blind) what execution I will do upon him. I have an Argument to let fly at him, that will ſtrike him dead, ſtone-dead, and make him as mute as a fiſh, ſo that <hi>T. B.</hi> and I will have the laſt word of him. 'Tis an Argument againſt the Pack. 'Tis as keen as a Chopping-Knife, as clear as Train-Oil, Flaming Charcoal it ſelf is not brighter. Lo beloved, here it is, <hi>The Jews drank of that Rock that followed them, and that Rock was Chriſt.</hi> Therefore Chriſt as God-Man was in the beginning. What do you think Friends? Will any of them<note n="(b)" place="margin">
+                        <hi>them</hi> in the <hi>Penſyl<g ref="char:EOLhyphen"/>vanian</hi> Di<g ref="char:EOLhyphen"/>alect for <hi>the.</hi>
+                     </note> 
+                     <hi>Presbyterians</hi> be able to avoid the force of this Argument?</q>
+               </p>
+               <p>This <hi>Joſeph,</hi> this is the ſtrength of thy Reaſon. And now judge thy ſelf whether thou haſt not made a fair Speech. Art thou ſo blockiſh as to imagine that the hard Rock in the Wilderneſs, was in a proper ſenſe Chriſt Jeſus? Doſt think that a Stone more ſenſeleſs than thy ſelf was both God and Man, the Saviour of Sinners? I take this to be the meaning of that Scripture. The <hi>Jews</hi> in the Wilderneſs drank of the Rock which <hi>Moſes</hi> ſmote with his Rod at the Command of God, <hi>Exod.</hi> 17.6. <hi>This Rock,</hi> ſaith the Apoſtle, <hi>was Chriſt, i. e.</hi> It was a <hi>Type</hi> or <hi>Figure</hi> of Chriſt, as the Bread in the Lord's Supper when Conſecrated, is the Body of Chriſt, <hi>i. e.</hi> a Sign which by Divine Appointment doth exhibit and repreſent his Body. This Rock did in ſeveral reſpects Typifie and Prefigure Chriſt; but it was not in a Proper Senſe Chriſt Jeſus, God-Man. There was ſome Analogy or Likeneſs between this Rock and its Waters, which were the Sign; and Chriſt and his Benefits which were ſignified thereby. Hear what the <hi>Rhemiſts</hi> (from whom <hi>Joſeph Nott</hi>'s Friends have receiv'd many a precious Doctrine) ſay to this. <q rend="margQuotes">The Rock (ſay they) was a Figure of Chriſt, therein eſpecially, that out of Chriſts ſide pierced on the Croſs, guſhed out Bloud and Water, <hi>&amp;c.</hi>
+                  </q>
+               </p>
+               <q>
+                  <hi>
+                     <label>J. N.</label>
+                  </hi> And Chriſt in Prayer ſaid; And now, O Father, glorify thou me with thine own ſelf, with the glory which I had with thee before the World was: And he farther ſaid, thou lovedſt me before the Foundation of the World.
+<bibl>
+                     <hi>John 17.5.2, 4.</hi>
+                  </bibl>
+               </q>
+               <p>In theſe words, our Lord prays, that the Father would receive his humane Nature into Heaven, and give it a due participation of that Glory, which his divine Nature had from E<g ref="char:EOLhyphen"/>ternity. He deſires that his whole Perſon might be glorious; whereas his Eſſential Glory had been eclipſed, during his abode on Earth. This, and the 24th <hi>Verſe</hi> prove, that Chriſt, as to his Divine Nature, was before the Creation of the VVorld, which Mr. <hi>Troſs</hi> does not deny; but here is nothing to prove that Chriſt <hi>as God-man,</hi> was before the Creation; therefore this Text is impertinently cited againſt Mr. <hi>Troſs.</hi>
+               </p>
+               <q>
+                  <hi>
+                     <label>J. N.</label>
+                  </hi> Quotes <hi>John 1.10. Eph. 3.9. Col. 1.16. Heb. 1.1, 2.</hi>
+               </q>
+               <p>All theſe Quotations are borrowed from Mr. <hi>T. B.</hi> to which Mr. <hi>Troſs</hi> hath given ſuch full and clear Anſwers, in <hi>Pag.</hi> 6, and 7. of his <hi>Lord's-Day Vindicated,</hi> as may ſatisfy any, but ſuch a ſilly wrangler as <hi>J. N.,</hi> who fairly paſſes over all that Mr. <hi>Troſs</hi> hath ſaid for the ex<g ref="char:EOLhyphen"/>plication of them: wiſely concluding. that many would beſtow three or four Farthings to purchaſe, and a quarter of an Hour to read his Pamphlet, who would neither buy nor read Mr. <hi>Troſs</hi>'s Anſwer to Mr. <hi>Bampfield.</hi> But though theſe Texts prove nothing againſt Mr. <hi>Troſs,</hi> hear how the <hi>Fool rageth, and is confident</hi> of his ſucceſs.</p>
+               <q>
+                  <pb n="17" facs="tcp:98635:11" rendition="simple:additions"/>
+                  <hi>
+                     <label>J. N.</label>
+                  </hi> Now here it is evident from the words of Chriſt and his Apoſtles, That Jeſus Chriſt was in the beginning with the Father; and that all things were created by him<note n="(a)" place="margin">A fi<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>re call'd Ta<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tology, which often occurs in claſſical Quaking Author<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re might be ſaid to prove that Jeſus Chriſt was in the beginning, and that all things were created by him:<note n="(a)" place="margin">A fi<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>re call'd Ta<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tology, which often occurs in claſſical Quaking Author<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> But this being ſufficient,</q>
+               <p>Never beat thy Brains to ſay any more to this point. 'Twas evident enough before thy Pam<g ref="char:EOLhyphen"/>phlet crawl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d abroad, that <hi>Jeſus Chriſt as God,</hi> was in the beginning; That the <hi>Divine Nature</hi> of our Redeemer, made the World, That God the Son, 4<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>00 years before his Incarnation (when he firſt became actually and formally Jeſus Chriſt) created Heaven and Earth. But we have no proof that Jeſus Chriſt <hi>as God-man,</hi> and <hi>actual Mediator;</hi> was in the beginning. What ever good opinion our Author hath of his <hi>Sufficiency,</hi> he will find it a hard Task to prove that <hi>Emmanuel, God with us,</hi> created the World. And thus much for the <hi>Quaker</hi>'s firſt Cavil, concerning which all that he hath ſaid appears to be a ſolemn piece of Imper<g ref="char:EOLhyphen"/>tinence.</p>
+            </div>
+            <div n="4" type="section">
+               <head>SECT. IV.</head>
+               <argument>
+                  <p>
+                     <hi>J. N</hi>'s ſecond Cavil at the name Chriſtian-Sabbath, a vain ſtrife about words. Chriſt, not the Chriſtian-Sabbath. The Fathers call the firſt Day of the Week the Lord's-Day. Cant about an inviſible and everlaſting Day. <hi>Verſtegan</hi> abuſed, mis-nam'd, and mis-quoted. A ground<g ref="char:EOLhyphen"/>leſs Quarrel, with <hi>Saxon</hi> Names. Adviſe to <hi>J. N.</hi>
+                  </p>
+               </argument>
+               <p>THE Quaker imagining that he had confuted Mr. <hi>Troſs,</hi> as to the other Controverſy, pre<g ref="char:EOLhyphen"/>tends to give a general Aſſault to his whole Book.</p>
+               <q>
+                  <hi>
+                     <label>J. N.</label>
+                  </hi> I ſhall proceed to reply to the other part of his Book.</q>
+               <p>Soft and fair, good <hi>Joſeph.</hi> This is a ſtrange way of proceeding, to confute Books by Whole-Sale. Thou art a very formidable Adverſary; for tho' thou art not over-laden with Wit or Learning; I find thee a very <hi>ſufficient</hi> Man at Boaſting, Braving, VVondering and Railing. Thou proceedeſt to talk Non-ſenſe without bluſhing; thou art big with a Reply to what thou doſt not underſtand, and paſſeſt over what thou canſt not anſwer. Thou doſt dictate, not argue; Nibble and Cavil, but demonſtrate nothing, beſides thy own Ignorance and Impudence.</p>
+               <q>
+                  <hi>
+                     <label>J. N.</label>
+                  </hi> But firſt, I ſhall ſet down ſome of his own words in his Book, that the Reader may ſee what it is that I do return an Anſwer unto.</q>
+               <p>Juſt now thou threatnedſt the whole Book with a general Eſcalade; but when all comes to all, thou doſt but ſkirmiſh with ſeven or eight Sentences.</p>
+               <q>
+                  <hi>
+                     <label>J. N.</label>
+                  </hi> The firſt words in his Book <hi>(a)</hi> are as follows. The Lord's-Day Vindicated, or the firſt Day of the Week, the Chriſtian-Sabbath.</q>
+               <pb n="18" facs="tcp:98635:12"/>
+               <p>
+                  <hi>(a) Anglice</hi> the Title. But where is thy Reply? VVhat are the Exceptions againſt this?</p>
+               <q>
+                  <hi>
+                     <label>J. N.</label>
+                  </hi> And in <hi>Pag. 33.</hi> He ſpeaking of the Seventh-Day, and of Chriſt, ſaith, He deſigned (to wit Chriſt) its ſpeedy Abſolution, as the Seventh-Day, and its Converſion into the firſt Day. Now this wants a proof from <hi>G. T.</hi>
+               </q>
+               <p>I find the Reverend Author in the <hi>Page</hi> here quoted, giving ſeveral Reaſons why our Lord never particularly recommended or enjoined the Obſervation of the Seventh-Day-Sabbath, to his Hearers. The words which <hi>J. N.</hi> carps at are the 4th. Chriſt was about to aboliſh the Jewiſh-Sabbath. As it was a Day of <hi>Ceremonial Reſt,</hi>
+                  <note n="*" place="margin">The bodi<g ref="char:EOLhyphen"/>ly Reſt be<g ref="char:EOLhyphen"/>ing requir<g ref="char:EOLhyphen"/>ed for it ſelf, <hi>and not only</hi> for the Scriptural works ſake.</note> ſo he deſigned utterly to abo<g ref="char:EOLhyphen"/>liſh it, together with the reſt of the Ceremonial Law; for the Shadows were to vaniſh when the Body was come, <hi>vide Pag.</hi> 93, 94. As it was a Day of ſpiritual Reſt and VVorſhip; ſo he intended ſpeedily to change it from the Seventh-Day to the Firſt. The Qarker ſaith, very gravely. <hi>Now this wants a Proof.</hi> But I ſay <hi>now</hi> and <hi>then, J. N.</hi> wants Eyes and Brains to diſcern the many Proofs of this throughout that judicious Treatiſe. By how mony ſolid Arguments is the actual change of the Day prov'd? And if it were actually changed by Chriſt's Apoſtles, according to his own Order and Inſtructions, which he through the Holy Ghoſt, had given unto them. <hi>Acts</hi> 1.2, 3. to be ſure Chriſt deſigned the change thereof. For 'tis Blaſphemy to ſay, that Chriſt ordered, and through the Holy Ghoſt gave command<g ref="char:EOLhyphen"/>ment to his Apoſtles, to do that which he never deſigned to have done
+<q>
+                     <hi>
+                        <label>J. N.</label>
+                     </hi> And in <hi>Pag. 44.</hi> He ſpeaks of the Change of the Seventh-Day into the Firſt Day-Sab<g ref="char:EOLhyphen"/>bath, as he calls it. And in <hi>Pag. 59,</hi> and <hi>60,</hi> he ſaith, And we ſay the Seventh-Day, be<g ref="char:EOLhyphen"/>ing caſhier'd, the Firſt Day ought to be its ſucceſſor. I wonder from whence he will prove this.</q>
+               </p>
+               <p>Prithee Man, have a care of theſe ſame <hi>Wonderments;</hi> for they ſay Admiration is the Daughter of old Ignoramus. And the VVonderer is but one remove from a Fool. Read <hi>Pag.</hi> 60, 61, 62. of Mr. <hi>Troſs</hi>'s Book, and thou wilt find abundant proof of this. And in <hi>Pag.</hi> 131. 132, 133. thou mayeſt find the Sum of thoſe many Arguments by which Mr. <hi>Troſs</hi> hath proved the abolition of the Jewiſh Seventh-Day, and the eſtabliſhment of the <hi>Firſt-Day,</hi> as the Chriſtian-Sabbath. I adviſe thee <hi>Joſeph,</hi> as a Friend, to read over thoſe few <hi>Pages,</hi> and thou wilt find much more proof for this, than thou haſt given us, that Chriſt <hi>as God-man</hi> made the VVorld from thoſe words, <hi>This Rock was Chriſt.</hi>
+               </p>
+               <q>
+                  <hi>
+                     <label>J. N.</label>
+                  </hi> And in <hi>Pag. 85.</hi> He mentions Chriſts words where it's ſaid, <hi>The Son of Man is Lord even of the Sabbath-Day:</hi> And then he ſaith, <hi>A Proof which we make uſe of to prove our Doctrine of the Firſt Day-Sabbath:</hi>But I ſay this is no proof at all.</q>
+               <p>
+                  <hi>Ipſe dixit.</hi> VVho durſt reply to what <hi>J. N.</hi> hath ſaid. If he ſaith <hi>Yea</hi> let none ſay <hi>Nay.</hi> His bare word muſt paſs for Argument. He hath told you 'tis no proof, and it ſhall be no proof. VVell mayeſt thou <hi>Joſeph</hi> hug thy own <hi>dear</hi> Self for this rare Talent thou haſt got of Anſwering Arguments by <hi>Yea,</hi> and by <hi>Nay.</hi> If any deſire to know how theſe words of our Saviour are improv'd by Mr. <hi>Troſs</hi> to ſtrengthen his Aſſertion concerning the Change of the Sabbath from the Seventh: Day to the Firſt, let them conſult <hi>Pag.</hi> 87.—90. of his Book.</p>
+               <q>
+                  <pb n="19" facs="tcp:98635:12"/>
+                  <hi>
+                     <label>J. N</label>
+                  </hi> And in <hi>Pag. 114.</hi> he ſaith. <hi>The Seventh-Day-Sabbath was obſerved in Comemora<g ref="char:EOLhyphen"/>ation of the works of Creation, until a more admirable work of God ſhould be ac<g ref="char:EOLhyphen"/>compliſhed; ſo the Firſt Day ever after ſhould be the Holy Reſt.</hi> It will be very hard for <hi>G. T.</hi> to prove this; and it doth alſo manifeſt his great Ignorance of the Reſting-Place, that the Servants of the Lord have in Chrſt Jeſus.</q>
+               <p>Bravely done. Thou haſt cleaverly confuted Mr. <hi>G. T.</hi> by telling him, that it will be very hard for him to prove, what he hath produced many Arguments for, which thou takeſt no Notice of. No doubt thy Name will be up for a Dangerous Confuter. Eſpecially when thou doſt ſo frequently talk of his Ignorance. But <hi>Joſeph,</hi> methinks thou acteſt like <hi>Har<g ref="char:EOLhyphen"/>paſte, Seneca</hi>'s VVife's Fool, who being as blind as a Beetle, would not believe it; but cried out againſt her Miſtriſs, for putting her into a Dark-Houſe.<note n="*" place="margin">Seneca <hi>Epiſt.</hi> 50.</note> Thus thou crieſt out of others Ignorance, when thou oughteſt to reflect upon thy own Blockiſhneſs. Upon this Oc<g ref="char:EOLhyphen"/>caſion, a Friend bid me mind thee of that of the Poet.</p>
+               <q>Tecum habita &amp; noris quam ſit tibi curta ſupellex.</q>
+               <p>But leſt this ſhould be as bad as <hi>Heathen Greek</hi> to thee, I'le take leave to <hi>Engliſh</hi> it thus.</p>
+               <q>
+                  <l>Conſult thy ſelf, and thou wilt ſee</l>
+                  <l>
+                     <hi>Noll</hi>'s Porter had more Light than thee.</l>
+               </q>
+               <p>VVhat thou talkeſt of <hi>the Reſting-Place in Christ Jeſus,</hi> I ſhall reckon with thee for anon.</p>
+               <q>
+                  <hi>
+                     <label>J. N.</label>
+                  </hi> Now here the Reader may ſee that his great Endeavours are to prove the First-Day of the Week to be the Christian Sabbath; and yet in <hi>Pag. 56.</hi> he ſaith, we grant that the Holy Scriptures do call no other Day of the Week a Sabbath but the Seventh: And in <hi>Pag. 94.</hi> he ſaith, The First Day is never called Sabbath in Scripture; and I ſay ſo too, and therefore he might very well have been ſilent: But here all whoſe <g ref="char:V">Ʋ</g>nderstanding is open, may ſee how this Man labours like a Man beating the Air, or that builds without a Foundation, for himſelf doth acknowledge, that he hath no Scripture for a Foundation.</q>
+               <p>A heavy charge. <hi>Self-contradiction, beating the Air, building Without a Foundation.</hi> And why ſo great wrath? VVhy, becauſe Mr. <hi>Troſs</hi> calls the Firſt Day of the VVeek the Chriſti<g ref="char:EOLhyphen"/>an-Sabbath, when the Scriptures call no other Day a Sabbath, but the Seventh. But <hi>Joſeph,</hi> what if thy charge be meer miſtake. Mr. <hi>Troſs</hi> doth not go about to prove that the Name <hi>Sabbath</hi> is given to the Firſt Day; but that the Firſt Day ſince the Reſurrection of Chriſt is <hi>the Day of Holy Rest.</hi> And what is the difference between <hi>Rest</hi> and <hi>Sabbath,</hi> but that one is an <hi>Engliſh,</hi> the other a <hi>Hebrew</hi> word. Mr. <hi>Troſs</hi> knows better than <hi>Joſeph Nott,</hi> that the <hi>Lord's-Day</hi> is the Name given by the Holy Ghoſt to the <hi>First-Day,</hi> and principally uſed by the Pri<g ref="char:EOLhyphen"/>mitive Chriſtian VVriters; of which a late diligent Searcher of their VVritings hath given us many Inſtances.<note n="*" place="margin">Enquiry into the worſhip, <hi>&amp;c.</hi> of the Primitive Church. <hi>p. 2. p. 161. 165.</hi>
+                  </note> He alſo tells us, that though <q rend="margQuotes">the Fathers ſometimes ſo far complied with the <hi>Heathens,</hi> as to call it <hi>Sunday</hi> in their Phraſe, that they might know what Day they meant: Yet he did not find that the VVriters of the 3 firſt Centuries, ever ſo far indulg'd the <hi>Jews,</hi> as to call it the <hi>Sabbath-Day;</hi> but they violently declaim againſt <hi>Sabbatizing,</hi> that is, the Judaical Obeſervation of the Seventh-Day.</q> And a great Light of this Age hath obſerved<note n="(a)" place="margin">
+                     <hi>Bax<g ref="char:EOLhyphen"/>ter</hi>'s Di<g ref="char:EOLhyphen"/>vine Ap<g ref="char:EOLhyphen"/>pointment of the Lords Day. <hi>Pag. 185.</hi>
+                  </note> 
+                  <q rend="margQuotes">That the word <hi>Sabbath</hi> is ever taken in Scripture for a Day of <hi>Cere<g ref="char:EOLhyphen"/>monial</hi> Reſt, as well as Spiritual Reſt and Worſhip. That the Seventh-Day it ſelf is never
+<pb n="20" facs="tcp:98635:13" rendition="simple:additions"/> call'd a Sabbath, till <hi>Moſes</hi>'s time, but only the ſanctified and bleſſed Day. That the Lord's Day is ſometimes call'd by latter Writers by the Name of the <hi>Chriſtian-Sabbath,</hi> but that is only <hi>Analogically,</hi> as it reſembles the Jewiſh-Sabbath.<note n="(b)" place="margin">
+                        <hi>Id.</hi> Pag. 2. <hi>See alſo</hi> Pag. 81. <hi>and</hi> 82.</note> And when they call it a <hi>Sab<g ref="char:EOLhyphen"/>bath,</hi> they do not mean a Day of Jewiſh Ceremonial Reſt, for Chriſt hath ended all ſuch Sabbaths, as being Shadows of things to come; but a Day ſeparated by Chriſt's Ap<g ref="char:EOLhyphen"/>p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>intment, for holy Aſſemblies and Worſhip.</q> Let but <hi>J. N.</hi> grant, that the Firſt Day is ſuch a Day, and then let him call it the <hi>Firſt Day,</hi> or <hi>Sabbath,</hi> or <hi>Lord's-Day,</hi> or <hi>Sunday,</hi> as he pleaſes. And if I don't greatly miſtake him, he hath granted the thing, though he keeps a po<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her againſt the Name. For he tells us, <hi>Pag.</hi> 6. <hi>L.</hi> 15. <hi>That the Sabbath ſignifies Reſt,</hi> and <hi>Pag.</hi> 8. <hi>L.</hi> 14. <hi>That the Quakers do ceaſe from their outward Labour, and aſſemble themſelves together to wait</hi> upon God, and worſhip <hi>him on the Firſt Day of the Week.</hi> Though their ſqueamiſh Stomachs will not let the Name <hi>Chriſtian Sabbath</hi> go down; from hence it appears, that all which the Quaker hath ſaid on this Argument here, and ſo on to the end of his B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ok, is meer Stuff, a pitiful, putid Cavil, and his Accuſation may be retorted upon himſelf. For if Mr. <hi>Troſs</hi> hath no foundation to prove the Firſt Day to be the Chriſtian-Sab<g ref="char:EOLhyphen"/>bath, or Day of holy Reſt; then <hi>Joſeph Nott,</hi> and his Quakers have no Scripture-Warrant for their Practice, <hi>of ceaſing from their outward Labour, and aſſembling themſelves together to wait upon God, and worſhip him on the Firſt Day of the Week.</hi> So that upon the whole it ap<g ref="char:EOLhyphen"/>pears, that <hi>Joſeph Nott</hi> might very well have kept his Breath, and ſpar'd his Paper for ſome better uſe.</p>
+               <q>
+                  <hi>
+                     <label>J. N.</label>
+                  </hi> But if we who in ſcorn are called Quakers, ſhould bring ſuch Doctrine as we had no Scri<g ref="char:EOLhyphen"/>pture to prove, How would people cry out againſt us? And indeed Reaſon enough too: But we bring no ſuch Doctrine, God forbid we ſhould; for we are a People that have an honour<g ref="char:EOLhyphen"/>able Eſteem for the Holy Scriptures.</q>
+               <p>
+                  <hi>No doubt but ye are the People, and Wiſdom ſhall die with you.</hi> Job 12.2. You have <hi>a ve<g ref="char:EOLhyphen"/>ry honourable Esteem for the Holy Scripture,</hi> witneſs the Titles and Epithetes you give it in your Writings; ſuch as, a <hi>Carnal Letter, a Dead-Killing-Letter;</hi> the <hi>Husk</hi> which is fit for nothing but the Swine. Nay ſome of you are not aſham'd to call your own Writings, the <hi>Word of the Lord,</hi> though you deny the Scriptures to be ſo; and others have the face to af<g ref="char:EOLhyphen"/>firm what <hi>you ſay to be of as great Authority as the Scriptures and Chapters,</hi> and GREATER. See <hi>Quakers Principles and Doctrines Re-printed.</hi> Pag. 3.4.</p>
+               <p>And whereas thou pretendeſt, that you <hi>Quakers</hi> bring no ſuch Doctrine, as you have no Scripture to prove, perhaps I may hereafter ſhew the Contrary, as to your Principal Opinions.</p>
+               <p>I am quite weary of Tranſcribing, and I doubt not but my Reader is of reading <hi>J. N</hi>'s Gibberiſh, therefore I ſhall in the remaining 3. <hi>Pages</hi> of his Book, only remark ſome choice, obſervable things.</p>
+               <q>
+                  <hi>
+                     <label>J. N.</label>
+                  </hi> Pag. <hi>6.</hi> L. <hi>9.</hi> Now here we may ſee that the Sabbath-Day was a Shadow; of what may ſome ſay, why the Body is of Chriſt: He that can understand, let him.</q>
+               <p>The Author in theſe words makes uſe of a Trope, which <hi>Rhetoricians</hi> call <hi>Non-ſenſe.</hi> He propoſes a Queſtion; <hi>Of what was the Sabbath-Day a Shadow?</hi> And Anſwers, <hi>The Body is of Chriſt;</hi> adding very pertinently, <hi>He that can understand, let him.</hi> And I ſay ſo too; but I doubt they will be hardly put to it to underſtand it; for Non-ſenſe was never Intelli<g ref="char:EOLhyphen"/>gible.</p>
+               <q>
+                  <pb n="21" facs="tcp:98635:13" rendition="simple:additions"/>
+                  <hi>
+                     <label>J.N.</label>
+                  </hi> Line <hi>14.</hi> Christ is the Christian-Sabbath: For as I ſaid before, Sabbath ſignifieth Rest; and Christ is the Rest of his People.</q>
+               <p>At this rate he may prove that the <hi>French King is Christ.</hi> For Chriſt ſignifieth <hi>Anointed.</hi> Now the <hi>French King</hi> was anointed. Therefore the <hi>French King is Christ.</hi> So ridiculous is his arguing.</p>
+               <q>
+                  <hi>
+                     <label>J. N.</label>
+                  </hi> Line <hi>33.</hi> And they that are Sons of God do I n w this true Rest; but <hi>G.T.</hi> doth mani<g ref="char:EOLhyphen"/>fest his Ignorance of it, in applauding of an outward Day, and putting of it in its room.</q>
+               <p>Here is more <hi>Mystical Divinity.</hi> I hope our Author will, in compaſſion to our Ignorance, explain himſelf in his next, about the <hi>Resting place in Christ Jeſus,</hi> and the <hi>Outward day</hi> which he talks of, as tho' there were an <hi>Inward day.</hi> If he doth not tell us more plainly what he means, we ſhall be ready to think that his Worſhip doth ſcarce underſtand what he hath written himſelf.</p>
+               <q>
+                  <hi>
+                     <label>J. N.</label>
+                  </hi> Lin. <hi>35.</hi> And in Pag. <hi>90. G.T.</hi> ſaith, <hi>That St.</hi> John <hi>calls the Fi ſt Day of the Week the Lords-Day:</hi> And in <hi>Pag. 132.</hi> he ſaith, <hi>That the Holy Ghoſt does call the Fi ſt Day of the Week the Lord's Day.</hi> Here <hi>G.T.</hi> hath made a bold venture, and he will find a <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ry hard Task to prove what he hath ſaid.</q>
+               <p>Why ſo <hi>Bold-a-venture, Joſeph?</hi> I think he hath ſufficiently prov'd, that the <hi>Lord's-day</hi> mentioned <hi>Rev.</hi> 1.10. is the Firſt Day of the Week, from a <hi>constant, uninterrupted, and uni<g ref="char:EOLhyphen"/>verſal Tradition from the Days of the Apostle, to our Days: the generality of Christians acknow<g ref="char:EOLhyphen"/>ledging the Lord's-Day to be the First Day.</hi> Pag. 82. Many of the antient Writers have given it this appellation; as <hi>Ignatius,</hi> who is commonly ſaid to have been St. <hi>John<g ref="char:punc">▪</g>
+                  </hi> Diſciple; and therefore may be preſumed to underſtand his Meaning, at leaſt as well as <hi>J.</hi> N. He ſaith in his Epiſtle to the <hi>Magneſians;</hi> 
+                  <q rend="margQuotes">Let every Friend of Chriſt, keep holy the Lord's-Day, the Reſurrection Day, the Queen of Days. To the ſame purpoſe <hi>Dionyſius</hi> of <hi>Co<g ref="char:EOLhyphen"/>rinth,</hi> in <hi>Euſeb. Hist. lib.</hi> 4. <hi>c.</hi> 23.</q>
+                  <note n="*" place="margin">Valeſii Edit.</note> ſaith, To day we keep the Holy Lord's Day. This Lord's-Day which was the Chriſtians chief Feſtival, appears to be that Day which the <hi>Jews</hi> called the <hi>First Day,</hi> the <hi>Heathens Sunday,</hi> in that ſeveral of the Fathers call it <hi>Sunday,</hi> as <hi>Ju<g ref="char:EOLhyphen"/>stin Martyr</hi> informing the Heathens of the time and manner of the Ch<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſtians Aſſemblies, tells them, <q rend="margQuotes">That their Meeting was on the Day called <hi>Sunday,</hi> or the Firſt Day of the VVeek, giving this as the Reaſon, Therefore do we meet upon <hi>Sunday,</hi> becauſe upon it God diſpelling the Darkneſs, and informing the firſt matter, created the VVorld; and al<g ref="char:EOLhyphen"/>ſo ſo becauſe upon that Day, Jeſus Chriſt our Saviour roſe again from the Dead. <hi>Tertullian</hi> alſo in his <hi>Apology, c.</hi> 16. tells the Heathens, that their <hi>Sunday</hi> was the Chriſtians Joyful Day, and again <hi>De Idolol. c.</hi> 14. he ſaith, that every <hi>Eighth Day</hi> was the Ch<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iſtians Feſtival.</q> This Day in his Book <hi>De Corona Mil. c.</hi> 3. and oft elſe where, he calls the <hi>Lord's Day,</hi> and ſaith it was a Crime to Faſt upon it. Others I find cited to the ſame purpoſe; as <hi>Theophil. Antiochen. Clemens Alex. Orig. contracelſ.</hi> and others. Now let <hi>J.</hi> N. write a Confutation of theſe Antient Fathers, and reprove them for their <hi>bold venture</hi> in calling the Firſt Day of the VVeek the Lord's-Day.</p>
+               <q>
+                  <hi>
+                     <label>J. N.</label> p. 6. lin. 39.</hi> And he doth alſo manifeſt his ignorance of the Everlaſting Day of God's Power, that the Saints in Light are enjoyers of. <hi>And p. 7. lin. 5.</hi> Here is an inviſible day ſpoken of, <hi>(viz. 1 Theſ. 5.5---8.) And lin. 14. G.T.</hi> manifeſts himſelf to be ignorant of this inviſible Day of the Lord; and ſo appears not to be an Inhabitant of the holy City, new
+<pb n="22" facs="tcp:98635:14" rendition="simple:additions"/> 
+                  <hi>Jeruſalem;</hi> for they that are Citizens of this holy City are living Witneſſes of the Everlaſt<g ref="char:EOLhyphen"/>ing Day of God's Power, dawned and broken forth. An Everlaſting Day indeed. He that can hear, let him hear and underſtand.</q>
+               <p>
+                  <hi>Joſeph.</hi> We hear thee right well, but muſt confeſs our ſelves a little at a loſs about this <hi>Inviſible Day</hi> which thou talkeſt of. Therefore we deſire thee to favour us with an intelli<g ref="char:EOLhyphen"/>gible account, what thou meaneſt by <hi>the Everlaſting Day of God's Power.</hi> Where doth the Scripture ſpeak of an inviſible <hi>Day?</hi> We know that the word <hi>day</hi> is ſometimes us'd in Scripture in a <hi>Proper</hi> ſenſe, for the time in which the Sun is above our Horizon; ſometimes in a <hi>Metaphorical</hi> ſenſe, for a time of clear knowledge of heavenly Truths, or a ſtate of Illu<g ref="char:EOLhyphen"/>mination and Converſion, in oppoſition to a time, or ſtate of Ignorance or Unbelief, called <hi>Night</hi> in Scripture. Of ſuch a day are thoſe Texts by thee quoted to be underſtood, 1 <hi>Theſ,</hi> 5.5.—8. 2 <hi>Pet.</hi> 1.9. That Text <hi>Prov.</hi> 4.18. might have led thee to this Notion. <hi>The Path</hi> (or courſe of life) <hi>of a righteous man is as the ſhining light.</hi> It is like unto it, and re<g ref="char:EOLhyphen"/>ſembles it, in purity, clearneſs, pleaſure and the like. <hi>But the way of the wicked is as dark<g ref="char:EOLhyphen"/>neſs,</hi> neither pleaſant nor ſafe. So a time of clear knowledge, when the Goſpel is plainly Preach'd, or a ſtate of Grace, are like the Day: For as the light of the Sun removes the darkneſs and horrour of the night, bringing comfort along with it; ſo the ſaving knowledge of God (true Grace) wrought by the Goſpel, removes Ignorance and Error, and gives joy and peace to Believers. But why doſt thou again charge Mr. <hi>Troſs</hi> with Ignorance, and uncharitably condemn him as one that hath no title to Heaven? Doſt think that thou haſt Monopoliz'd knowledge to thy ſelf? Muſt all the World dance after thy Pipe? Thou art like the <hi>Bernardine</hi> Monks, who thought that the Sun darted its Beams no where but into their own Cell. And what fulſome pride, and daring arrogance doſt thou manifeſt, when thou preſumeſt to judge of a very pious Divine's Eternal condition, and magiſterially pro<g ref="char:EOLhyphen"/>nounce that he is <hi>no Citizen of a New</hi> Jeruſalem, and all becauſe he doth not underſtand thy nonſenſical Cant, about an Inviſible Day? Whether thou meaneſt by the Holy City, the <hi>New Jeruſalem,</hi> the <hi>Church Militant,</hi> or the <hi>Church Triumphant,</hi> this is a horribly wicked cen<g ref="char:EOLhyphen"/>ſure of thine. What is ſo pious, ſtrict, and charitable a Chriſtian, ſo faithful and laborious a Miniſter as Mr. <hi>Troſs,</hi> no Member of the Church on Earth. and hath no right to the King<g ref="char:EOLhyphen"/>dom of Heaven, and in a ſtate of Damnation? How didſt thou come to know this? Was it revealed to thee by the Accuſer of the Brethren? If he be in ſo dreadful a condition, what a caſe art thou in, who diſcovereſt ſuch Deviliſh Pride, and monſtrous uncharitable<g ref="char:EOLhyphen"/>neſs? I adviſe thee, <hi>Joſeph,</hi> when thou re-printeſt theſe thy learned Works, to leave out theſe Accuſations and Condemnations, of a perſon ſo much better than thy ſelf. And beg of God to cure and pardon the pride of thine Heart, leaſt thou <hi>fall into the condemnation of the Devil.</hi> If ſelf-conceit had not ſwoll'n thee up above the juſt Dimenſions of a Man, thou wouldſt never thus thruſt thy ſelf into the Throne of Chriſt, and paſs ſentence (as thou haſt) upon his Servant. Examine whether thy <hi>Inviſible</hi> Enemy did not puff thee up with an opi<g ref="char:EOLhyphen"/>nion of thine abilities, whether he did not <hi>move</hi> thee to proclaim thy folly, in pretending to anſwer ſo great a Scholar as Mr. <hi>Troſs.</hi> What Spirit, but a black one, would ever have ſtired thee up to treat ſo Grave, ſo Good, and Reverend a Divine as he, with ſo much Rudeneſs, Scorn and Contempt, as thou haſt? Thou taxeſt him Ten times over of <hi>Ignorance, Blindneſs, Darkneſs,</hi> of <hi>oppoſing Scripture,</hi> and <hi>contradicting himſelf:</hi> This is like the great Boaſter we read of in <hi>Aul. Gell. Noct. Attic. lib.</hi> 1. <hi>cap.</hi> 2. who defamed all the excellent Wits of <hi>Greece</hi> and <hi>Italy,</hi> on purpoſe to extol himſelf. Or like <hi>Simon</hi> the <hi>Wizzard, Acts</hi> 8.9. <hi>who gave out that himſelf was ſome great one.</hi> Thus doſt thou give out that thou art ſome great one, a wonder of Wit, a Prodigy of Parts. Thou endeavoureſt to blacken others, that thou mayſt blanch thy ſelf. Thou art wiſe in thine own Eyes, and others are ignorant and fool<g ref="char:EOLhyphen"/>iſh in thy Opinion: But I dare ſay thou art not thought to be over-laden with VViſdom or
+<pb n="23" facs="tcp:98635:14" rendition="simple:additions"/> Learning by many others,. And doth it not manifeſt thy unmatchable Pride, as well as no<g ref="char:EOLhyphen"/>torious folly, for ſuch a Fellow as thou, who canſt neither write good ſenſe, nor underſtand a plain <hi>Engliſh</hi> Author, who haſt ſcarce any Books to read, or time to ſtudy, to pretend to confute a Book which thou art never like to underſtand one half of? But Mr. <hi>Troſs</hi> is not the firſt Learned Man that hath been thus treated by ſilly <hi>Quakers.</hi> For Mr. <hi>Baxter</hi> tells us in his <hi>Treatiſe of Knowledge and Love, p.</hi> 117. that he met with the like uſage. <q rend="margQuotes">The <hi>Qua<g ref="char:EOLhyphen"/>kers</hi> (ſaith he) in their Shops, when I go along <hi>London</hi>-Streets, ſay, alas! poor man, thou art yet in darkneſs. They have oft come to me in the Congregation, and cried out againſt me as a Deceiver of the People. They have followed me home, crying out in the Streets, The day of the Lord is coming, when thou ſhalt periſh as a Deceiver. They have ſtood in the Market-place, and under my VVindow, year after year, crying out to the People, take heed of your Prieſts, they deceive your Souls. And if they ſaw any one wear a <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ace, or neat Cloathing, Theſe are the fruit of thy Miniſtry. If they ſpeak to me with the greateſt Nonſence or Ignorance, it was with as much Fury and Rage, as if a bloody Heart had ap<g ref="char:EOLhyphen"/>pear'd in their Faces. Some of them went ſtark naked thro' the Streets, and cried out over and over all the year, VVo to the Proud.</q> VVonderful! VVonderful! Oh the blind<g ref="char:EOLhyphen"/>neſs of a corrupted Mind, that theſe poor Souls did not perceive their intolerable Pride.</p>
+               <q>
+                  <hi>
+                     <label>J. N.</label> p. 7. l. 20.</hi> Now as for the days of the Week, they are called as follows, the firſt day, the ſecond day, <hi>&amp;c.</hi> The Lords day is an everlaſting day, and the true Communicants are living Witneſſes of it; for in this everlaſting day the true fellowſhip ſtands, ſee <hi>1 John 1.7. Gen. 1.5.</hi> The Light is called Day, and in the Light the true Fellowſhip ſtands.</q>
+               <p>Here's a piece of <hi>Roſy-Crucian</hi> Divinity. After thou haſt made it clear and evident, that thou art able to tell <hi>Seven</hi> or <hi>Ten,</hi> if need be, thou ſoareſt higher, and giveſt us ſuch knotty obſtruſe, Myſterious Sentences, as want an <hi>Oedipus</hi> to unriddle. Methinks that paſſage thou doſt ſo often repeat, would have done very well here, <hi>He that can underſtand, let them un<g ref="char:EOLhyphen"/>derſtand.</hi> I doubt few of thy Inlightned Brethren will fathom this <hi>Quaking</hi> Divinity. This is much as intelligible as the words of <hi>James Parnel, Shield of Truth. p.</hi> 113.</p>
+               <p>
+                  <q rend="margQuotes">The ground of the Religion made manifeſt to us (ſays he) is God himſelf. For God is the Fountain of all Truth, and Truth is Religion. And this Truth we witneſs, made mani<g ref="char:EOLhyphen"/>feſt by God, the life of Truth. And here is the Religion we witneſs forth, and here is the ground witneſſed forth from the ground. And this Religion is pure, unſpotted, and ſprings from the Light, which is pure, wherein there is no deceit, neither can be; for it diſcovers all deceit, and leads out of it, both within and without.</q> Is not this moſt edifying Diſ<g ref="char:EOLhyphen"/>courſe? Did ever arrant Fops waſte Ink and Paper to Pen more <hi>in</hi> and <hi>out</hi> ſtories than theſe of <hi>James Parnel</hi> and <hi>Joſeph Nott?</hi>
+               </p>
+               <p>But what Scripture, what Argument haſt thou to prove that the <hi>Lords Day,</hi> mention'd <hi>Rev.</hi> 1.10. is an <hi>everlaſting day,</hi> and not a proper day, even the <hi>Firſt day</hi> of the VVeek? Muſt all that drops from thy Gooſe-Quill paſs for Oracles? Produce thy ſtrong Reaſons, and don't put us off with naked Aſſertions. VVhat is the <hi>everlaſting day</hi> thou prateſt of? Who are the <hi>true Communicants</hi> who thou ſayeſt are witneſſes of this inviſible Day? VVhere do they dwell? VVhat are their Names. And how doth Fellowſhip ſtand in a Day? and in <hi>the light?</hi> Doth not the <hi>Quakers</hi> Fellowſhip end at Night, and ſet with the Sun? Is it not in danger to be loſt in a Miſt, or interrupted by a Storm? Explain this better in thy next, or elſe lay aſide thy Pen, and follow thy Trade.</p>
+               <q>
+                  <hi>
+                     <label>J. N.</label> p. 8 l. 4.</hi> I ſay it is neceſſary, yea needful, that one day in Seven ſhould be ſet apart for theſe Reaſons.</q>
+               <pb n="24" facs="tcp:98635:15"/>
+               <p>O cunning Elf, what a piercing Wit haſt thou, that canſt ſo accurately diſtinguiſh between <hi>neceſſary</hi> and <hi>needful? S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>otus</hi> who hath got the Name of Doctor <hi>Subtilis,</hi> was a meer <hi>Dunce</hi> to thee. But let us hear thy Reaſons.</p>
+               <q>
+                  <hi>
+                     <label>J. N.</label>
+                  </hi> Firſt it is needful that Man and Beaſt ſhould Rest ſome time from their Labour.</q>
+               <p>But why muſt they reſt from their Labour one day in <hi>Seven,</hi> more than one day in <hi>ſix,</hi> or one day in <hi>eight?</hi> I am confident thou muſt Reſt <hi>Seven Days</hi> from thy Labour, before thou wilt be able to prove this Reaſon to be cogent, and concluding, for one day in ſeven, more than one day in ſeventeen, or one hour in ſeven.</p>
+               <q>
+                  <hi>
+                     <label>J. N.</label>
+                  </hi> Secondly, Men and Women being free from their outward Labour and Concern, they may be the more freely given up in their Hearts and Minds, to wait upon God and worſhip him.</q>
+               <p>I grant this is a good Reaſon why ſome time ſhould be ſet apart for Religious Worſhip, but I will make a <hi>bold venture</hi> for once, and give thee <hi>Eight</hi> days to make it out from hence, that therefore, one day in <hi>ſeven,</hi> no more, nor no leſs, ſhould be ſo ſet apart.</p>
+               <q>
+                  <hi>
+                     <label>J. N.</label>
+                  </hi> Thirdly, That Servants that elſe might not have liberty, that they * may have liberty to wait upon God, and worſhip him.</q>
+               <p>* The words <hi>(that they)</hi> are brought in by a Figure called <hi>Head und Shoulders.</hi> This Reaſon is no more concluding than the former. For Servants may have liberty one day in four, or one day in eight, as well as one day in ſeven, for ought that <hi>Joſeph Nott</hi> hath prov'd to the contrary.</p>
+               <p>I don't doubt but one day in ſeven, ought to be ſet apart for the Publick and Private So<g ref="char:EOLhyphen"/>lemn Worſhip of God; and I am fully perſwaded, that the <hi>Lords-day,</hi> commonly called <hi>Sunday,</hi> is now the day. But there are far better Arguments to prove this, in ſeveral Treatiſes written on this Subject, <hi>viz.</hi> by Dr. <hi>Young,</hi> Dr. <hi>Wallis,</hi> Dr. <hi>Owen,</hi> Mr. <hi>Baxter,</hi> Mr. <hi>Warren,</hi> and to name no more, Mr. <hi>Troſs,</hi> than thoſe which <hi>Joſeph Nott</hi> hath produc'd. But we can have no more of the Fox than his Skin.</p>
+               <p>But let us hear the laſt Cavil, and that is about calling the Days of the Week by old <hi>Saxon</hi> Names, <hi>Munday, Tueſday, Wedneſday, &amp;c.</hi> Concerning the occaſion of theſe Names, our Authour (who is no doubt a great Antiquary) refers us to <hi>Verſtegan</hi>'s <hi>Antiquities,</hi> and <hi>Camb<g ref="char:EOLhyphen"/>den's B it.</hi> for ſatisfaction. As to the former of theſe, he hath broken his own Rule. For he hath put a new Name upon him, <hi>for which he hath no command nor example,</hi> calling him <hi>Verſtigan.</hi> But we'll let ſuch a ſmall Litteral miſtake paſs, greater matters than this ſhall not cauſe any difference among Friends. Let us therefore hear what he hath to ſay, concerning the <hi>Godfathers</hi> to <hi>Tueſday</hi> and <hi>Wedneſday.</hi>
+               </p>
+               <q>
+                  <hi>
+                     <label>J. N.</label>
+                  </hi> The next was the Idol of Planets, which was the Idol of <hi>Tuiſco,</hi> who was the firſt and chiefeſt man of that Name among the <hi>Germans,</hi> unto whom the name of <hi>Tueſday</hi> was eſpecially dedicated.</q>
+               <p>
+                  <hi>Joſeph,</hi> thou haſt ſerv'd <hi>Verſtegan</hi> a little courſly, in changing his Name; but thou haſt been unmerciful to this Sentence which thou pretendeſt to tranſcribe out of him. Thou wouldſt make us believe, that the Idol of <hi>Planets</hi> was the Idol <hi>Tuiſco, i. e.</hi> the Idol of <hi>Pla<g ref="char:EOLhyphen"/>nets</hi> was the Idol of a Man. How doth this hang together. But this is not all; for whereas thy Author ſaith, that <hi>Tuiſco</hi> was <hi>the firſt and Chiefeſt Man of Name</hi> among the <hi>Germans,</hi> thou telleſt us he was the chiefeſt Man of <hi>that</hi> Name. Hereby making it evident, that as thou
+<pb n="25" facs="tcp:98635:15"/> canſt not write true <hi>Engliſh,</hi> ſo neither canſt thou read or underſtand it. If any ſhould tell thee, that <hi>William Pen</hi> is the only Man of Name among the <hi>Quakers,</hi> it ſeems this Phraſe would be above thy ſhallow Capacity.</p>
+               <q>
+                  <hi>
+                     <label>J. N.</label>
+                  </hi> The next was the Idol <hi>Wooden,</hi> whom the <hi>Saxons</hi> honoured for their God of Battel, from whence they called the Fourth day <hi>Wedneſday.</hi>
+               </q>
+               <p>Where didſt thou find an Idol called <hi>Wooden?</hi> I don't think there is any ſuch Name in <hi>Cambden</hi> or <hi>Verſtegan.</hi> If thou hadſt not been a <hi>Wooden Fellow</hi> thou wouldeſt have diſtin<g ref="char:EOLhyphen"/>guiſh'd <hi>Woden</hi> from <hi>Wooden.</hi> But every <hi>Log</hi> will not make a <hi>Mercury.</hi>
+               </p>
+               <q>
+                  <hi>
+                     <label>J. N.</label>
+                  </hi> Now it is good for all People to leave theſe old Pagan, <hi>Saxon,</hi> Heathen Names, and call the days as they are called in Scripture.</q>
+               <p>Never doubt <hi>Joſeph,</hi> but that all <hi>People</hi> will be ready to gratifie thee in this, when they know thy mind. And oh! what a happy Reformation would it be, if all People would call the days by the Names of the <hi>Firſt day,</hi> the <hi>ſecond day, &amp;c.</hi> What a brave time if the Reli<g ref="char:EOLhyphen"/>gion and Manners of <hi>Penſylvania</hi> ſhould obtain all the World over? Here's precious Coun<g ref="char:EOLhyphen"/>ſel if 'twere receiv'd. The <hi>Quaker</hi> is for a new Language, acommodated to his new Light. He is a Man that ſets a high value upon proper words, tho' he makes no great ſcruple of Conſcience about joining them together. 'Tis pity but he had liberty to coin a Language to his mind, provided the new words (and thoſe that affect them) were ſent after the <hi>Copper Farthings.</hi> Cuſtom hath made the Names <hi>Monday, Tueſday, &amp;c.</hi> cur<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ant among us. We uſe them as notes of diſtinction for the days of the Week. And few of thoſe who uſe theſe Names, intend thereby any honour to the Man in the Moon, to <hi>Tuiſco the Idol of the Planets,</hi> or <hi>Wooden the God of Battel.</hi> And tho' I beſt approve of the name of the <hi>Lords-day,</hi> for the firſt day of the Week; yet I don't intend to bring an Action of Scandal againſt <hi>Juſtin Martyr</hi> or <hi>Tertullian,</hi> for calling it <hi>Sunday.</hi> And let but <hi>Joſeph Nott</hi> give me liberty to call the other days <hi>Monday, Tueſday, Wedneſday, &amp;c.</hi> and to be quits with him, he ſhall call them Second, Third, Fourth, <hi>&amp;c.</hi> or <hi>Alpha, Beta, Gamma, Delta,</hi> or what elſe he pleaſes for me.</p>
+               <p>I don't find that the Penmen of the Holy Scriptures were ſo nice and ſcrupulous in things of this nature. The word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, tho' an <hi>old Pagan, Greek, Heathen</hi> name, uſed (<hi>as Eſti<g ref="char:EOLhyphen"/>us ad Rom.</hi> 3.2.) <hi>apud Graecos Authores ad ſignificandum reſponſa Deorum, quae Latini Oracula vo<g ref="char:EOLhyphen"/>cant.</hi> To ſignifie the Anſwers of the Heathen Gods; yet the Proto-Martyr <hi>Stephen (Acts</hi> 7.38.) And the Apoſtle of the Gentiles, (<hi>Rom.</hi> 3.2.) without ſcruple uſe it, applying it to the Sacred Writings, and Revelations of the will of the only living and true God.</p>
+               <p>Hear what the Learned and Reverend Doctor <hi>Wallis</hi> ſays to this frivolous Cavil, in his <hi>De<g ref="char:EOLhyphen"/>fence of the Chriſtian Sabbath,</hi> in anſwer to Mr. <hi>Bampfield. p.</hi> 67. After he hath ſhewn how little regard is to be given to the Tale of <hi>Verſtegan,</hi> he adds, <q rend="margQuotes">But whaeever were the occaſi<g ref="char:EOLhyphen"/>on on of the firſt impoſing, theſe are now the known Names of thoſe Days. And we need no more ſcruple the uſe of theſe Names, than to talk of Pope <hi>Pius, Clemens, Boniface</hi> and <hi>Innocent,</hi> tho' poſſibly the perſons ſo call'd, had none of thoſe good Qualities. In like man<g ref="char:EOLhyphen"/>ner as we have a Spring near <hi>Oxford,</hi> which we call <hi>Ariſtotle's Well;</hi> not that we think <hi>Ari<g ref="char:EOLhyphen"/>ſtotle</hi> was ever there, or was Lord of the place, and much leſs that he was wont to be there worſhipped; but we ſo call it, as being now the proper name of the place (impoſed at pleaſure) by which it is known. And ſo for the days of the VVeek; whatever were the occaſion of the firſt impoſing, they now ſignifie no more than the proper diſtinctive names by which the days are known. And why we may not continue ſo to call them I know not. We are told, <hi>Acts</hi> 17.19, 20. of <hi>Paul's</hi> being at <hi>Areopagus,</hi> or <hi>Mars</hi>-Hill, becauſe that was
+<pb n="26" facs="tcp:98635:16"/> the known name of the Place, without ſcrupling the reaſon why it was ſo called, (whether becauſe <hi>Mars</hi> had been there worſhipped, or for what other reaſon.) And <hi>Acts</hi> 28.11. of a Ship deſign'd by <hi>Castor</hi> and <hi>Pollux,</hi> or <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, without ſcrupling the reaſon of that Name, or what Relation theſe Stars had to <hi>Jupiter,</hi> ſo as to be called his <hi>Lads, &amp;c.</hi>
+                  </q>
+               </p>
+               <p>'Twas not for nothing that St. <hi>Paul</hi> caution'd <hi>Timothy to avoid profane and vain bablings, and oppoſitions of Science falſly ſo call'd,</hi> 1 <hi>Tim.</hi> 6.20. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>de rebus inanibus cla<g ref="char:EOLhyphen"/>mor, inanis garrulitas quae ad aedificationem non facit. Aret.</hi> Many ſuch empty noiſy bablers there have been in all Ages, and ſtill are, of whom <hi>Vincentius Lirinenſis</hi> tells us, <hi>cap.</hi> 26. <hi>Audias quoſdam ipſ rum dicere, venite, O inſipientes, &amp; miſeri, qui vulgo Catholici vocitamini &amp; diſcito fidem veram, quam praeter nos nullus intelligit, quae multis ante ſeculis latuit, nuper vero revelata &amp; ostenſa est.</hi> How agreeable is this to the <hi>Quakers</hi> ſtile? <q rend="margQuotes">Come you ignorant and blind Prieſts, come you fooliſh <hi>Protestants,</hi> and learn the truth of us, that Truth which none but we underſtand; which hath been hid f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>om you, but is of late reveal'd unto us, who have the <hi>Spirit</hi> and the <hi>Light within.</hi> Learn of us to keep an <hi>inviſible day.</hi> Learn of us to call the days as they are called in Scripture, <hi>&amp;c.</hi>
+                  </q>
+               </p>
+               <p>But let us hear the Epilogue of this Learned and Elegant Piece.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="excerpt">
+                           <p>
+                              <hi>J. N.</hi> The Lord proſper his great work, and cauſe his Truth to ſpread more and more, is the Prayer and deſire of my ſoul; Even ſo. <hi>Amen.</hi>
+                           </p>
+                           <closer>
+                              <signed>Written by a Lover of the Lord Jeſus Christ. <hi>Joſeph Nott.</hi>
+                              </signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>As he began with Non-ſenſe, ſo he concludes with it too. To make ſenſe of it, it muſt be <hi>That the Lord would proſper,</hi> &amp;c. But 'tis fit the end ſhould be like the reſt of the Pamphlet, that all might be of a piece. As he entituled his Book <hi>Holy Scripture work, &amp;c.</hi> whereas it is a prophane wreſting of Scripture; ſo he calls himſelf <hi>a Lover of the Lord Jeſus Christ,</hi> tho' he caſts off <hi>his</hi> Ordinances, viliſies <hi>his</hi> VVord, and reproaches <hi>his</hi> Meſſengers. I think I have made it evident, that <hi>Joſeph Nott</hi> is not a Lover of the Lord Jeſus Chriſt, but <hi>one who giveth head to Seducing Spirits, and Doctrines of Devils; ſpeaking Lyes in Hypocriſy.</hi> 1 Tim. 4.1, 2. And I doubt not but that I may on this occaſion pray with <hi>David, Pſal.</hi> 31.18. <hi>Let th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ing Lips be put to ſilence, which ſpeak grievous things proudly and contemptuouſly againſt the Righteous.</hi>
+               </p>
+               <p>Thus I have done with this Pamphlet. I have diſcovered the <hi>great pride and ignornce of the Writer.</hi> I have ſhewn his groſs Miſtakes, pitiful Cavils, and notorious Errors. <hi>Ex pede Her<g ref="char:EOLhyphen"/>culem.</hi> By this you may ſee what a fine Syſtem of Divinity our new Profeſſors, who are <hi>Men of all Trades,</hi> are like in time to patch together: What monſtrous Opinions may the wild<g ref="char:EOLhyphen"/>neſs of their Brains, aſſiſted by <hi>that Spirit</hi> who <hi>mov'd Ahab</hi>'s Prophets, (1 <hi>Kings</hi> 22.22.) in time produce!</p>
+               <p>And now I dare appeal to any Man of ſenſe, (Quakers not excepted) whether <hi>Joſeph Nott</hi> hath not Written againſt Mr. <hi>Troſs</hi> without Reaſon, Senſe, or common Civility? While he accuſes others of Ignorance and Error, he hath given it under his own hand that he is an uncharitable Wrangler, yea, a great Dunce, who underſtands neither Argument nor plain <hi>Engliſh.</hi> He multiplies Scriptures only to ſhelter his Errors under their Umbrage.<note n="*" place="margin">Scit Diabolus nullam eſſe ad fallendum facilio<g ref="char:EOLhyphen"/>rem viam, quam ut ubi ne<g ref="char:EOLhyphen"/>ſarii erroris ſubinducitur fraudulentia, ibi divinorum verborum praetendatur au<g ref="char:EOLhyphen"/>ctoritas. Vinc. Lirin. c. <hi>37.</hi>
+                  </note> He talks of the Spirit in his Heart when a Trepan might (perhaps) diſcover a Bladder in his Brains <hi>He is proud, knowing nothing, but doting about Queſtions, fooliſh and unlearned Queſtions,</hi> (about an inviſible day and the like) <hi>an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſtrifes of words</hi> (about naming the days of the Week <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 1 <hi>Tim.</hi> 6.4.</p>
+               <p>
+                  <hi>Joſeph,</hi> canſt thou review thy botching bungling work without bluſhing? Art thou not aſham'd to find thy folly and ignorance
+<pb n="27" facs="tcp:98635:16"/> made manifeſt? Doſt thou not perceive that thy Light hath lead thee aſtray? Doſt thou not repent of troubling the World with thy Impertinencies? How canſt thou look any in<g ref="char:EOLhyphen"/>genious Man in the Face, after thou haſt thus render'd thy ſelf ridiculous? Thoſe who once thought thee Head and Shoulders above the common People, now perceive that thou art a contemptible Pigmy. But I ſpare thee, forbearing any further to lay thee open, in hopes that mildneſs may work upon thee, though thou haſt deſerved a ſevere rebuke: And as a Friend who wiſhes thee well, I will give thee a few parting Counſels.</p>
+               <p n="1">1. <hi>Shut up thy Pack,</hi> and don't trouble us with any more of thy ſmall wares: Be not ſo unadviſed as to appear any more in Print. Thy Cuſtomers will be loth to throw away any more Farthings upon thy Toys: Meddle no more with matters above thy Capacity, but keep to the Trade which thou wert brought up to. Believe me <hi>Joſeph,</hi> thou art one of the moſt deſpicable Triflers that ever blurr'd Paper. Perhaps thy <hi>Spirit and Light</hi> may <hi>move</hi> thee to reply to what I have written. Thou art not ſo <hi>perfect,</hi> but that ſome things in this Paper may chance to ſtir the <hi>Old Man</hi> in thee: And thou wilt it may be have recourſe to the old <hi>pious Arts</hi> of Lying, Railing, and Calling Names. I know not but thou mayſt give me ſome of thoſe Titles, which thy Brethren have given Mr. <hi>Fald,</hi> Mr. <hi>Baxter,</hi> Dr. <hi>Owen,</hi> and other Pious and Learned Miniſters. <hi rend="margQuotes">[Such as <hi>Babylons</hi> Merchants, ravening Wolves, <hi>Phariſees,</hi> whited Walls, Darkneſs it ſelf, Reprobates, Scarlet-colour'd Beaſts, Dark Sots, Mountebank Prieſts, comparing them to Lizards, Moles, Green-headed-Trumpeters, Ser<g ref="char:EOLhyphen"/>pents, Grinning-Dogs, Wheel-barrows, Whirligigs, <hi>&amp;c.</hi>)</hi> To furniſh thy ſelf with a good ſtock of theſe read the precious Writings of <hi>G. Fox, William Penn, Edward Burroughs,</hi> and <hi>Sam. Fiſher.</hi> If thou wilt play the Fool again, thou wilt but expoſe thy ſelf, to be ridicul'd and hiſs'd at by the Boys in the Streets.</p>
+               <p>Therefore ſit down quietly with the harm thou haſt: I wiſh thou mayſt be ſo wiſe as to take this advice. But if it ſhould, otherwiſe happen, know, that thou ſhalt bark long enough before I will turn back to give thee a kick: I have ſomewhat elſe to do, than to write any more remarks upon ſuch empty Scribbles as thine.</p>
+               <p n="2">2. If thou write again, <hi>Commit thy ſelf to the care of ſome She-friend,</hi> that teaches Chil<g ref="char:EOLhyphen"/>dren to read, and deſire her to inſtruct thee in the <hi>Liberal Art</hi> of ſpelling and reading <hi>Engliſh.</hi>
+               </p>
+               <p n="3">3. <hi>Learn to diſtinguiſh ſenſe from Non-ſenſe,</hi> that the World may not be puzzled with any more of thy <hi>Soloeciſms</hi> and abſurdities.</p>
+               <p n="4">4. <hi>Learn ſome plain Catechiſm,</hi> that thou mayſt no longer be ignorant of the Principles of the Doctrine of Chriſt. Thou who pretendeſt to teach others, I perceive thou art but a Babe in knowledg, and muſt have a great deal of pains taken with thee to make thee com<g ref="char:EOLhyphen"/>petently knowing.</p>
+               <p n="5">5. <hi>Converſe with thy betters.</hi> Be not wiſe in thine own conceit, but be ſenſible of thy ig<g ref="char:EOLhyphen"/>norance. If thou hadſt Humility enough to deſire it, there be many of Mr. <hi>Troſs</hi>'s Hearers, that would be ready to inſtruct thee, and lend thee ſome good Expoſitors upon the Scri<g ref="char:EOLhyphen"/>ptures; by reading of which thou mayſt ſee how ignorantly and profanely thou haſt wre<g ref="char:EOLhyphen"/>ſted many Texts.</p>
+               <p n="6">6. <hi>Pray earneſtly to the God of all grace</hi> for a humble and teachable Spirit: Deſire the Lord to pardon thee thy Pride and Preſumption, in medling with holy things, and to reſcue thee out of <hi>the Snare of the Devil,</hi> that thou mayſt not fall into the Condemnation of the Devil. I am perſuaded <hi>Joſeph</hi> that <hi>Thou,</hi> and thoſe other <hi>Mechanick Lay-Preachers,</hi> which ſwarm in <hi>England</hi> at this day, are ſtirred up by <hi>Satan,</hi> and drive on his <hi>Deſign,</hi> which is firſt to <hi>De<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e</hi> the Miniſtry, and then to <hi>overthrow</hi> it.</p>
+               <p>That the Lord would open thine Eyes to ſee thy ſin and danger, and give thee repentance to the acknowledgment of the Truth, is the unfeigned deſire of,</p>
+            </div>
+            <closer>
+               <signed>Thine to do thee any Chriſtian Office.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
